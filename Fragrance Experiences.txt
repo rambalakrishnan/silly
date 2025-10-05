@@ -1,0 +1,1194 @@
+
+{
+"dossier_version": "2.0",
+"user_id": "Project USER",
+"chapter_name": "Chapter 1: Foundational Scents",
+"fragrance_database": [
+{
+"fragrance_name": "L'Eau d'Issey Pour Homme (Vintage Formulation)",
+"house": "Issey Miyake",
+"perfumer": "Jacques Cavallier-Belletrud",
+"manufacturer": "Shiseido Group / Beauté Prestige International",
+"montagne_equivalent": "N/A (User has suggested Montagne create a vintage EDP version)",
+"acquisition_history": [
+"Foundational scent from the user's formative years as a teenager in Malaysia."
+],
+"emotional_resonance": "The Intellectual North Star. This fragrance is not just a scent, but a core facet of the user's perceived personality. It represents a standard of intellectual and artistic captivation. The emotional connection is deep, tied to a formative period of his life.",
+"olfactory_analysis": "The benchmark for 'High-Separation Contrast' architecture. The user is captivated by the distinct and powerful separation between the bright, watery-citrus top and the deep, spicy-woody base. Its complexity and non-linear development are the source of his intellectual fascination. The modern, reformulated version is perceived as 'missing something,' a feeling that was later confirmed to be the removal of the Lily of the Valley note he also loves.",
+"key_notes_and_user_reaction": [
+{"note": "Yuzu", "reaction": "Positive. The source of the unique, bright, watery-citrus opening that he loves."},
+{"note": "Lily of the Valley (Lilial)", "reaction": "Critical Positive. A subconsciously loved note, confirmed by his independent purchase of a soliflore oil. He correctly identified its removal/alteration in modern reformulations as the 'something missing' he perceived."},
+{"note": "Cypress & Spices (Nutmeg)", "reaction": "Positive. He explicitly identifies the 'spicy wood backbone' as a core reason for his love of the fragrance."},
+{"note": "Aquatic Notes (Calone)", "reaction": "Positive, in this specific blended context. Contributes to the overall watery freshness he enjoys."}
+],
+"status_and_verdict": "Confirmed 'Signature' Love. The primary benchmark for the 'High-Contrast' fresh category.",
+"user_quotes": [
+"I want to wear it as a facet of my personality the way I'd wear L'Eau D'Issey."
+]
+},
+{
+"fragrance_name": "Lily of the Valley (Perfume Oil)",
+"house": "Unidentified",
+"perfumer": "Unidentified",
+"manufacturer": "Unidentified ('hippie shop')",
+"montagne_equivalent": "N/A",
+"acquisition_history": [
+"Purchased independently as a perfume oil upon arriving in the United States for college."
+],
+"emotional_resonance": "The Emotional North Star. A significant personal scent from a formative period, representing independence and a newfound identity. The connection is deep and foundational.",
+"olfactory_analysis": "A soliflore scent experience. This established the user's inherent, pre-existing love for a specific clean, green, watery-white floral profile before he could articulate it in a broader context. It is the key to understanding his entire floral preference.",
+"key_notes_and_user_reaction": [
+{"note": "Lily of the Valley", "reaction": "Definitive Positive. The core of the scent and the source of his enjoyment."}
+],
+"status_and_verdict": "Foundational Scent Memory. Provided the key to understanding the L'Eau d'Issey reformulation issue and his broader floral preferences.",
+"user_quotes": []
+},
+{
+"fragrance_name": "Old Spice After Shave",
+"house": "Shulton / Procter & Gamble",
+"perfumer": "Albert Hauck",
+"manufacturer": "Procter & Gamble",
+"montagne_equivalent": "N/A",
+"acquisition_history": [
+"Formative memory of his father wearing this scent."
+],
+"emotional_resonance": "A powerful, positive foundational association with the 'Warm Spice' DNA, linked to his father.",
+"olfactory_analysis": "This is the user's foundational 'Warm Spice' reference point. The core of Old Spice is a powerful accord of Nutmeg, Cinnamon, and Clove. This early, positive exposure likely explains the user's subsequent success with warm spicy fragrances like Spicebomb, overriding his intellectual hypothesis that he would dislike cinnamon.",
+"key_notes_and_user_reaction": [
+{"note": "Cinnamon & Nutmeg", "reaction": "Implicitly Positive. Forms the core of a foundational comfort scent."}
+],
+"status_and_verdict": "Foundational Scent Memory. Provides the context for his entire 'Warm Spicy' preference.",
+"user_quotes": []
+},
+{
+"fragrance_name": "Neutrogena - Rainbath Shower Gel",
+"house": "Neutrogena",
+"perfumer": "Unidentified",
+"manufacturer": "Johnson & Johnson",
+"montagne_equivalent": "N/A",
+"acquisition_history": [
+"A scent he and his sister 'went gaga over' in his youth. He still uses it to this day."
+],
+"emotional_resonance": "An active, living part of his daily olfactory baseline. A scent of comfort, cleanliness, and nostalgia.",
+"olfactory_analysis": "This product is the 'Rosetta Stone' of his taste. Its iconic, complex blend of herbs, spices, and fruits created a lifelong positive association with a high-contrast profile. It perfectly explains his affinity for spicy, fresh, sweet, and clean patchouli accords.",
+"key_notes_and_user_reaction": [
+{"note": "Spices (Clove, Nutmeg)", "reaction": "Positive. Reinforces his comfort with the 'Old Spice' DNA."},
+{"note": "Herbs & Fruits", "reaction": "Positive. Establishes his appreciation for complex, high-contrast freshness."},
+{"note": "Clean Patchouli", "reaction": "Positive. A foundational exposure that primes him for a positive reaction to modern, clean patchouli notes."}
+],
+"status_and_verdict": "Active Foundational Scent. The most important predictor of his broad taste profile.",
+"user_quotes": []
+},
+{
+"fragrance_name": "Davidoff - Cool Water",
+"house": "Davidoff",
+"perfumer": "Pierre Bourdon",
+"manufacturer": "Coty",
+"montagne_equivalent": "N/A",
+"acquisition_history": [
+"Recalls a friend wearing this during his teenage years."
+],
+"emotional_resonance": "A positive memory associated with his youth and friendships.",
+"olfactory_analysis": "The user correctly identified it as being related to, but less complex than, L'Eau d'Issey. This demonstrates an early, innate preference for more nuanced and architecturally complex compositions. It's the benchmark for an 'Aromatic Aquatic' in his memory, which he prefers over a literal 'Marine' scent.",
+"key_notes_and_user_reaction": [
+{"note": "Mint & Lavender", "reaction": "Positive, in this context. Forms the core of the 'abstract' aquatic freshness he enjoys."}
+],
+"status_and_verdict": "Foundational Scent Memory. Established his preference for abstract aquatics over literal marines and for complexity over simplicity.",
+"user_quotes": []
+},
+{
+"fragrance_name": "Kenzo - Kenzo pour Homme",
+"house": "Kenzo",
+"perfumer": "Christian Mathieu",
+"manufacturer": "LVMH",
+"montagne_equivalent": "N/A",
+"acquisition_history": [
+"Recalls loving this as a teenager."
+],
+"emotional_resonance": "A strong positive memory from his youth.",
+"olfactory_analysis": "This was a pioneering 'Woody-Marine' scent (1991), predating Acqua di Gio. It's known for a salty, oceanic 'sea spray' note (Calone) over a unique woody base including bamboo. Its 'stormy day at the beach' vibe aligns with the user's appreciation for complex, non-sweet, fresh scents with character.",
+"key_notes_and_user_reaction": [
+{"note": "Marine Notes (Calone)", "reaction": "Positive. This, along with L'Eau d'Issey, confirms his enjoyment of the Calone-style watery accord, contrasting with his dislike for modern ambergris-based 'marine' scents."}
+],
+"status_and_verdict": "Foundational Scent Memory. Reinforces his preference for the 90s style of 'aquatic' perfumery.",
+"user_quotes": []
+}
+]
+}
+
+code
+Code
+download
+content_copy
+expand_less
+code
+JSON
+download
+content_copy
+expand_less
+
+{
+  "dossier_version": "2.0",
+  "user_id": "Project USER",
+  "chapter_name": "Chapter 2: Full Bottles, Part 1",
+  "fragrance_database": [
+    {
+      "fragrance_name": "Elysian Fraiche (Roja Dove - Elysian Parfum)",
+      "house": "Roja Dove",
+      "perfumer": "Roja Dove",
+      "manufacturer": "Roja Parfums",
+      "montagne_equivalent": "Elysian Fraiche",
+      "acquisition_history": [
+        "User owns a full bottle, acquired in a secondhand bundle."
+      ],
+      "emotional_resonance": "Evolving. Initially a definitive 'knocked it out of the park' love that garnered compliments. Has since been downgraded as his palate has been exposed to other, more preferred grapefruit profiles. The emotional connection has waned.",
+      "olfactory_analysis": "Initially the benchmark high-contrast scent. The user's analysis now focuses on a perceived 'sharp, acidic, bitter' grapefruit note that feels like a 'grapefruit cleaner' compared to the 'holographic' grapefruit of Tygr Cologne. He feels he 'missed out on the complex notes that make Roja Dove a genius' by starting with this version, which is the richer Parfum, not the cleaner Cologne.",
+      "key_notes_and_user_reaction": [
+        {"note": "Grapefruit", "reaction": "Mixed. Initially a love, now perceived as 'very sharp, sometimes too sharp' and 'bitter.'"},
+        {"note": "Galbanum", "reaction": "Unwittingly Positive. The user enjoys the overall composition, proving he likes galbanum when used as a subtle, masterfully blended supporting note."},
+        {"note": "Leather & Ambergris Base", "reaction": "Positive. He enjoys the deep, complex, and high-quality base."}
+      ],
+      "status_and_verdict": "Downgraded from 'Signature Love' to a high-tier 'Library' scent. It is now a benchmark for a style of sharp citrus he is fatigued by. The upcoming test of the smoother 'Elysian Cologne' is a critical comparative diagnostic.",
+      "user_quotes": [
+        "Elysian Fraiche isn’t blowing my mind like it once did."
+      ]
+    },
+    {
+      "fragrance_name": "Tygr (Bvlgari - Le Gemme Tygar, Discontinued Original)",
+      "house": "Bvlgari",
+      "perfumer": "Jacques Cavallier-Belletrud",
+      "manufacturer": "LVMH",
+      "montagne_equivalent": "N/A (Represents the original formulation)",
+      "acquisition_history": [
+        "User owns a full bottle, acquired secondhand in a mistaken purchase."
+      ],
+      "emotional_resonance": "Profound Emotional Love. Elicited a visceral, physiological reaction ('butterflies inside me'). The benchmark for a 'Harmonious-Fusion' scent that captivates him emotionally.",
+      "olfactory_analysis": "A masterfully blended 'Harmonious-Fusion.' The user correctly identified its holistic and nuanced character, contrasting the sharp modern version. This experience invalidated the hypothesis that the user *only* loves high-contrast architecture, proving a masterful blend can supersede architectural preference. It serves as a valuable collector's item and potential trade asset.",
+      "key_notes_and_user_reaction": [
+        {"note": "Grapefruit", "reaction": "Definitive Love. Perceived as 'rounded, blunt and soft,' smelling like the 'outside of a ripe grapefruit.'"},
+        {"note": "Green Notes & Florals", "reaction": "Positive. Detected as key parts of the holistic accord, contributing to its smoothness and complexity."}
+      ],
+      "status_and_verdict": "Confirmed 'Signature' Love. The benchmark for an emotionally resonant, masterfully blended fragrance.",
+      "user_quotes": [
+        "I wouldn’t say it brought tears but my eyes are certainly wet.",
+        "The contrast isnt as distinct either, but it’s absolutely wonderful."
+      ]
+    },
+    {
+      "fragrance_name": "Tygr Cologne (Bvlgari - Le Gemme Tygar, Modern)",
+      "house": "Bvlgari",
+      "perfumer": "Jacques Cavallier-Belletrud",
+      "manufacturer": "LVMH",
+      "montagne_equivalent": "Tygr Cologne",
+      "acquisition_history": [
+        "User owns a full bottle (and a redundant 2mL decant). Initially acquired three additional bottles due to FOMO, but correctly cancelled the order."
+      ],
+      "emotional_resonance": "A definitive 'love'. Represents a modern, exciting, and appealing scent profile that aligns with his desire for a mass-appealing yet high-quality fragrance.",
+      "olfactory_analysis": "The benchmark for a modern, 'holographic' grapefruit. The user loves the interplay between the bright, juicy grapefruit and the powerful, radiant ambroxan base. This fragrance, along with Gentle Silver, confirms his love for the 'ambroxan masterpiece' category.",
+      "key_notes_and_user_reaction": [
+        {"note": "Grapefruit", "reaction": "Positive. He loves the modern, 'holographic' presentation of the note."},
+        {"note": "Ambroxan", "reaction": "Positive. He enjoys the powerful, radiant base that provides performance and lift."}
+      ],
+      "status_and_verdict": "Confirmed 'Signature' Love. Serves as a direct point of comparison to the discontinued original and as a benchmark for the modern ambroxan-lifted citrus genre.",
+      "user_quotes": [
+        "I love wearing Tygr Cologne the modern holographic grapefruit."
+      ]
+    },
+    {
+      "fragrance_name": "God of Fiery (Stéphane Humbert Lucas 777 - God of Fire)",
+      "house": "Stéphane Humbert Lucas 777",
+      "perfumer": "Stéphane Humbert Lucas",
+      "manufacturer": "Stéphane Humbert Lucas 777",
+      "montagne_equivalent": "God of Fiery",
+      "acquisition_history": [
+        "User owns a full bottle."
+      ],
+      "emotional_resonance": "A 'grower.' Evolved from a pleasant but underwhelming skin scent to a fragrance he actively wears out, enjoys, and receives compliments on.",
+      "olfactory_analysis": "A 'Harmonious-Fusion' Fruity-Musk. A smooth, linear composition. Its success with the user proves his affinity for this specific, straightforward genre for pleasant, easy wear, even if it doesn't provide an intellectual thrill. It serves as a key benchmark for the 'rounded fruit' pillar of his taste.",
+      "key_notes_and_user_reaction": [
+        {"note": "Mango", "reaction": "Positive. Enjoys the overall fruity character."},
+        {"note": "Musk", "reaction": "Positive. The 'pleasant musky skin scent' is the core of the long-term experience he enjoys."}
+      ],
+      "status_and_verdict": "Confirmed 'Library' Scent. A reliable, pleasant, compliment-getting fragrance.",
+      "user_quotes": [
+        "The remaining fruity musky skin scent is very pleasant (I'd love to sleep in it) but I don't see the hype.",
+        "I wore Victory of Bacchus out tonight but it turns out I sprayed God of Fiery instead... it is growing on me quick."
+      ]
+    },
+    {
+      "fragrance_name": "Triumph of Bacchus (Argos)",
+      "house": "Argos",
+      "perfumer": "Christian Petrovich",
+      "manufacturer": "Argos",
+      "montagne_equivalent": "Victory of Bacchus",
+      "acquisition_history": [
+        "User owns a full bottle."
+      ],
+      "emotional_resonance": "A 'Grower'. A scent he enjoys for its artistic merit and for personal enjoyment, rather than as an expression of his personality. His appreciation for it has grown significantly over time.",
+      "olfactory_analysis": "A highly complex, opulent, 'kitchen sink' Amber Spicy fragrance. The user's initial negative reaction ('kitchen sink') has evolved into an appreciation for its complexity. This experience removed 'high complexity' as a negative indicator for his profile and established the 'Library' category. It is a benchmark for the opulent, boozy-tobacco genre.",
+      "key_notes_and_user_reaction": [
+        {"note": "Boozy Accord (Rum)", "reaction": "Positive. He prefers this rich, warm, spicy rum accord to the one in Apple Cognac."},
+        {"note": "Smooth Tobacco", "reaction": "Positive. A key data point confirming his enjoyment of smooth, well-blended tobacco."}
+      ],
+      "status_and_verdict": "Confirmed high-tier 'Library' Scent. A benchmark for the opulent, complex boozy-tobacco genre.",
+      "user_quotes": [
+        "what others call opulent felt at first like 'kitchen sink'",
+        "I'm aware of the distinction between 'I want to smell it' and 'I want to wear it as a facet of my personality'"
+      ]
+    },
+    {
+      "fragrance_name": "Apple Cognac (Kilian - Apple Brandy on the Rocks)",
+      "house": "By Kilian",
+      "perfumer": "Sidonie Lancesseur",
+      "manufacturer": "The Estée Lauder Companies",
+      "montagne_equivalent": "Apple Cognac on the Rocks",
+      "acquisition_history": [
+        "User owns a full bottle."
+      ],
+      "emotional_resonance": "A bifurcated experience. He loves the artistic concept but hates the technical execution. A frustrating 'what if' fragrance.",
+      "olfactory_analysis": "A fragrance with a beautiful core accord that is ruined for the user by a specific base note. This was a critical diagnostic failure that established a key negative trigger. His ability to separate the 'art' from the 'frame' was a major analytical breakthrough.",
+      "key_notes_and_user_reaction": [
+        {"note": "Warm Boozy Bouquet (Apple/Brandy)", "reaction": "Definitive Love. The user loves the 'art' of the fragrance and is willing to wear it to bed just to experience this part."},
+        {"note": "Medicinal Note (Synthetic Wood)", "reaction": "Definitive Hate. A 'prominent and offensive' note associated with a childhood antiseptic (Burnol). This established a key negative trigger for a specific family of sharp, synthetic, phenolic compounds."}
+      ],
+      "status_and_verdict": "Confirmed 'No.' Slated for trade/resale. Created a blueprint for a future search for a non-medicinal apple-brandy scent.",
+      "user_quotes": [
+        "I would love Apple Cognac if not for the medicinal wood."
+      ]
+    }
+  ]
+}
+
+code
+JSON
+download
+content_copy
+expand_less
+
+{
+  "dossier_version": "2.0",
+  "user_id": "Project USER",
+  "chapter_name": "Chapter 3: Full Bottles, Part 2",
+  "fragrance_database": [
+    {
+      "fragrance_name": "Tabac Vanille (Tom Ford - Tobacco Vanille)",
+      "house": "Tom Ford",
+      "perfumer": "Olivier Gillotin",
+      "manufacturer": "The Estée Lauder Companies / Givaudan",
+      "montagne_equivalent": "Tabac Vanille",
+      "acquisition_history": [
+        "User's first full bottle from Montagne, the catalyst for the entire journey. Acquired undiscounted."
+      ],
+      "emotional_resonance": "A 'grower' and a valuable teacher. He enjoys the final phase so much he wears it to bed, despite disliking the opening. A foundational data point for both a key negative trigger and a key positive pillar.",
+      "olfactory_analysis": "A critical diagnostic failure and success. The user definitively rejected the opening, which he precisely described as a 'dry, unlit tobacco' leaf, establishing his aversion to raw, dry, phenolic accords. However, his love for the rich vanilla dry-down confirmed his affinity for the vanilla pillar and set the stage for a search for a better vanilla fragrance.",
+      "key_notes_and_user_reaction": [
+        {"note": "Dry Tobacco Leaf (Raw)", "reaction": "Definitive Hate (in the opening). It is 'offensive' but grows on him over many hours."},
+        {"note": "Vanilla", "reaction": "Definitive Love. The primary driver for his continued use of the fragrance."}
+      ],
+      "status_and_verdict": "Confirmed 'Library' Scent. A foundational data point for both a key negative trigger and a key positive pillar.",
+      "user_quotes": [
+        "The tobacco is unburnt tobacco, like sniffing an open pack of cigarettes.",
+        "I still like Vanilla so much that I wear Tabac Vanille on occasion to bed."
+      ]
+    },
+    {
+      "fragrance_name": "Imaginary (Louis Vuitton - Imagination)",
+      "house": "Louis Vuitton",
+      "perfumer": "Jacques Cavallier-Belletrud",
+      "manufacturer": "LVMH",
+      "montagne_equivalent": "Imaginary",
+      "acquisition_history": [
+        "User owns a full bottle, acquired due to high interest in the LV collection. He also acquired a redundant 5mL decant."
+      ],
+      "emotional_resonance": "A currently frustrating but high-potential scent. It is intellectually appreciated but has not yet become emotionally captivating.",
+      "olfactory_analysis": "A masterpiece of the 'High-Separation Contrast' architecture. The user is currently struggling to appreciate the abstract Chinese Black Tea note, finding that it 'blocks the florals' and is difficult to isolate. This suggests a boundary in his taste for highly abstract, dry, aromatic notes, contrasting with his love for clear, defined accords.",
+      "key_notes_and_user_reaction": [
+        {"note": "Chinese Black Tea", "reaction": "Struggling. Perceived as a note that is 'blocking' other facets of the fragrance."},
+        {"note": "Citrus/Neroli/Ambroxan", "reaction": "Positive (implied). The quality of the blend is not questioned, only the artistic inclusion of the tea note."}
+      ],
+      "status_and_verdict": "Confirmed 'Library' Scent. A complex diagnostic. The core is sound, but requires persistent testing to see if the central note becomes appreciated.",
+      "user_quotes": [
+        "I am still working on trying to enjoy Imagination.",
+        "The ginger gets in the way of the contrast (User mistake, referring to Immensity).",
+        "It seems like another grapefruit-ambroxan combo."
+      ]
+    },
+    {
+      "fragrance_name": "Immensity (Louis Vuitton - L'Immensité)",
+      "house": "Louis Vuitton",
+      "perfumer": "Jacques Cavallier-Belletrud",
+      "manufacturer": "LVMH",
+      "montagne_equivalent": "Immensity",
+      "acquisition_history": [
+        "User owns a full bottle, acquired due to high interest in the LV collection."
+      ],
+      "emotional_resonance": "A definitive 'like, not love.' A useful reference point, but not captivating.",
+      "olfactory_analysis": "A 'High-Separation Contrast' scent that failed to be captivating because a bridge note 'muddles' the separation. The user correctly identified the **Ginger** as the element that spans the composition, preventing the clean, sharp contrast he prefers. The user's struggle to perceive the ambroxan backbone was also noted in early tests.",
+      "key_notes_and_user_reaction": [
+        {"note": "Ginger", "reaction": "Neutral/Negative. Perceived as a note that 'gets in the way of the contrast,' preventing clean separation of the top and base notes."},
+        {"note": "Ambroxan Base", "reaction": "Positive (Confirmed via other scents). The base is sound, but the overall blend is too linear for his high-contrast preference."}
+      ],
+      "status_and_verdict": "Confirmed 'Library' Scent. Used as the benchmark for a high-quality fragrance that fails to captivate due to architectural flaws.",
+      "user_quotes": [
+        "I got compliments today wearing it out... but that ginger... gets in the way of the contrast.",
+        "Seems like another grapefruit-ambroxan combo."
+      ]
+    },
+    {
+      "fragrance_name": "Harmony (Louis Vuitton - Symphony)",
+      "house": "Louis Vuitton",
+      "perfumer": "Jacques Cavallier-Belletrud",
+      "manufacturer": "LVMH",
+      "montagne_equivalent": "Harmony",
+      "acquisition_history": [
+        "User owns a full bottle."
+      ],
+      "emotional_resonance": "A serviceable fragrance, but not personally meaningful. Slated for trade.",
+      "olfactory_analysis": "A definitive 'Library' scent. The user found it 'very pleasant' but not captivating. Its success confirms the user's positive association with high-quality citrus, but its **linear architecture** ensures it will not become a 'Signature' scent.",
+      "key_notes_and_user_reaction": [
+        {"note": "General Citrus/Musk", "reaction": "Positive. Found it pleasant and easy to wear."},
+        {"note": "Longevity/Sillage", "reaction": "Positive. Noted its excellent performance (23+ hours), confirming that performance alone is not a driver for a 'love.'"}
+      ],
+      "status_and_verdict": "Confirmed 'Library' Scent. Used as a benchmark for a high-quality fragrance that fails to captivate due to architectural flaws.",
+      "user_quotes": [
+        "Harmony was very pleasant. It did not knock me out of the park.",
+        "The dry down was still there 23 hours after spraying."
+      ]
+    },
+    {
+      "fragrance_name": "Pineapple Frais (Creed - Aventus Cologne)",
+      "house": "Creed",
+      "perfumer": "Jean-Christophe Hérault (uncredited)",
+      "manufacturer": "IFF / Kering",
+      "montagne_equivalent": "Pineapple Frais",
+      "acquisition_history": [
+        "User owns a full bottle. This was an early blind buy acquisition."
+      ],
+      "emotional_resonance": "A definitive 'like, not love.' Its simplicity has become apparent compared to more complex favorites.",
+      "olfactory_analysis": "A streamlined, bright flanker. The user's current assessment is that it is a 'meh' scent. It is perceived as 'just another grapefruit-ambroxan combo,' lacking the unique artistic twist or depth of the favored 'holographic' Tygr Cologne. It is a benchmark for the simpler, more mass-appealing side of the Aventus DNA.",
+      "key_notes_and_user_reaction": [
+        {"note": "Grapefruit/Mandarin", "reaction": "Neutral. The note is not as captivating as the one in Tygr."}
+      ],
+      "status_and_verdict": "Confirmed 'Library' Scent. A benchmark for the simpler, more versatile side of the Aventus DNA.",
+      "user_quotes": []
+    },
+    {
+      "fragrance_name": "Gentle Silver (MFK - Gentle Fluidity Silver)",
+      "house": "MFK",
+      "perfumer": "Francis Kurkdjian",
+      "manufacturer": "LVMH",
+      "montagne_equivalent": "Gentle Silver",
+      "acquisition_history": [
+        "User has a 2mL decant, then purchased a full bottle based on his love for the decant."
+      ],
+      "emotional_resonance": "A confirmed 'love.' This is a surprising and deeply satisfying fragrance for the user.",
+      "olfactory_analysis": "A successful outlier. This fragrance is an exception to the user's general avoidance of the classic aromatic Fougère genre. The success is attributed to the masterful, radiant base that elevates the composition. It confirms the user's love for the 'ambroxan masterpiece' category and the specific, sophisticated blending style of Francis Kurkdjian.",
+      "key_notes_and_user_reaction": [
+        {"note": "Juniper Berry/Nutmeg", "reaction": "Positive. Found the 'aromatic gin' accord to be complex and appealing."},
+        {"note": "Ambroxan/Woods", "reaction": "Definitive Love. The brilliant radiance of the base is the primary source of captivation."}
+      ],
+      "status_and_verdict": "Confirmed 'Signature' Love. A benchmark for the aromatic/ambroxan genre.",
+      "user_quotes": [
+        "I loved Gentle Silver."
+      ]
+    },
+    {
+      "fragrance_name": "Cognac d'Ange (Kilian - Angels' Share)",
+      "house": "By Kilian",
+      "perfumer": "Benoist Lapouza",
+      "manufacturer": "The Estée Lauder Companies",
+      "montagne_equivalent": "Cognac d'Ange",
+      "acquisition_history": [
+        "User owns a full bottle, acquired during a rare Montagne restock. He also had difficulty acquiring a decant previously."
+      ],
+      "emotional_resonance": "A speculative acquisition. Its potential for 'love' is high due to its profile.",
+      "olfactory_analysis": "A benchmark boozy gourmand. Its intended profile is a precise balance of cognac, cinnamon, and vanilla, designed to be smoother than most other gourmands. A key diagnostic for the user's 'Vanilla Supremacy' pillar and boozy exploration.",
+      "key_notes_and_user_reaction": [
+        {"note": "General Profile", "reaction": "Unreliable test result at Sephora due to olfactory fatigue. Requires controlled testing."},
+        {"note": "Boozy Accord", "reaction": "Positive (hypothesis). Aligns with his preference for rich, warm, spicy rum/cognac over sharp apple brandy."}
+      ],
+      "status_and_verdict": "Full Bottle Asset. High-probability 'Library' or 'Signature' scent. Test is pending."
+    }
+  ]
+}
+
+
+code
+JSON
+download
+content_copy
+expand_less
+
+{
+  "dossier_version": "2.0",
+  "user_id": "Project USER",
+  "chapter_name": "Chapter 4: Full Bottles, Part 3",
+  "fragrance_database": [
+    {
+      "fragrance_name": "Image 45 (Amouage - Reflection 45 Man)",
+      "house": "Amouage",
+      "perfumer": "Lucas Sieuzac",
+      "manufacturer": "Amouage",
+      "montagne_equivalent": "Image 45",
+      "acquisition_history": [
+        "User has a full bottle inbound, acquired during a rare Montagne restock."
+      ],
+      "emotional_resonance": "A highly anticipated acquisition. The user has a strong positive hypothesis for this fragrance based on his personal history with jasmine and his enjoyment of the standard 'Image' decant.",
+      "olfactory_analysis": "This is the richer, denser, spicier Extrait version of the 'Image' DNA. While the standard 'Image' is a high-contrast aromatic floral, this version is a more opulent, blended 'Harmonious-Fusion.' It will be a key test of the user's tolerance for complexity in a floral context, directly comparing to his 'kitchen sink' reaction to other complex scents.",
+      "key_notes_and_user_reaction": [
+        {"note": "Jasmine & White Florals", "reaction": "Positive (Hypothesis). Aligns with his foundational 'love' for jasmine."},
+        {"note": "Complexity", "reaction": "Untested. The key variable that will determine if this is a 'Signature' love or a challenging 'Library' scent."}
+      ],
+      "status_and_verdict": "Full Bottle Asset. High-probability 'Signature' or 'Library' scent. Test is pending.",
+      "user_quotes": []
+    },
+    {
+      "fragrance_name": "Another 14 (Le Labo - Another 13)",
+      "house": "Le Labo",
+      "perfumer": "Nathalie Lorson",
+      "manufacturer": "The Estée Lauder Companies / Firmenich",
+      "montagne_equivalent": "Another 14",
+      "acquisition_history": [
+        "User has one full bottle inbound from Montagne and a potential second bottle from a secondhand seller (transaction status uncertain)."
+      ],
+      "emotional_resonance": "An intellectually driven acquisition. The user is curious about the minimalist molecular genre.",
+      "olfactory_analysis": "This is the benchmark 'minimalist molecular' or 'your skin but better' fragrance. It is a 'Harmonious-Fusion' scent composed almost entirely of base notes. Its success with the user will depend on whether he enjoys the abstract, skin-fusing character of these molecules in isolation, without a strong, contrasting top note.",
+      "key_notes_and_user_reaction": [
+        {"note": "Ambroxan & Musks", "reaction": "Positive (Hypothesis). Aligns with his love for the ambroxan in Tygr and Bleu Talisman, and the musks in his preferred fruity gourmands."},
+        {"note": "Linearity", "reaction": "The key risk. The user typically finds non-gourmand linear scents to be uncaptivating."}
+      ],
+      "status_and_verdict": "Full Bottle Asset. A critical diagnostic. High probability of being a 'Library' scent, low probability of being a 'Signature' love.",
+      "user_quotes": []
+    },
+    {
+      "fragrance_name": "French Cherry (Mind Games - French Defense)",
+      "house": "Mind Games",
+      "perfumer": "Nathalie Benareau",
+      "manufacturer": "Mind Games",
+      "montagne_equivalent": "French Cherry",
+      "acquisition_history": [
+        "User tested a 2.5mL decant, then purchased a full bottle during a rare Montagne restock."
+      ],
+      "emotional_resonance": "A definitive 'skin-fusion' love. The user describes it in terms of comfort and personal enjoyment rather than a public-facing statement.",
+      "olfactory_analysis": "A 'Harmonious-Fusion' Fruity-Floral-Musk. This was a breakthrough test, proving the user can 'love' a linear fragrance if it fuses perfectly with his skin chemistry. It is the benchmark for the 'bright, fruity gourmand' category.",
+      "key_notes_and_user_reaction": [
+        {"note": "Cherry", "reaction": "Definitive Love. The bright, juicy cherry note is a success."},
+        {"note": "Musk/Ambroxan Base", "reaction": "Definitive Love. He correctly identified that this base creates the successful 'skin-fusion' effect."},
+        {"note": "Sweetness", "reaction": "Positive. He found it 'not too sweet or too much like candy.'"}
+      ],
+      "status_and_verdict": "Confirmed 'Signature' Love, particularly for personal or intimate wear. A benchmark for the 'Harmonious-Fusion' profile.",
+      "user_quotes": [
+        "It smells like my skin made more tasty."
+      ]
+    },
+    {
+      "fragrance_name": "Pink Rose Frozen (Parfums de Marly - Delina La Rosée)",
+      "house": "Parfums de Marly",
+      "perfumer": "Quentin Bisch",
+      "manufacturer": "Parfums de Marly",
+      "montagne_equivalent": "Pink Rose Frozen",
+      "acquisition_history": [
+        "User owns a full bottle, acquired secondhand."
+      ],
+      "emotional_resonance": "A strong positive first impression, indicating a high potential for 'love.'",
+      "olfactory_analysis": "This is the freshest, most aquatic flanker in the Delina line. It is a 'Harmonious-Fusion' Fruity-Floral, but with a pronounced watery character. It is the user's primary diagnostic for a 'fresh, watery rose.'",
+      "key_notes_and_user_reaction": [
+        {"note": "Rose", "reaction": "Positive. A confirmed 'love' pillar."},
+        {"note": "Aquatic Notes & Pear/Litchi", "reaction": "Positive. Aligns with his 'rounded fruit' and 'aquatic' (non-marine) preferences."},
+        {"note": "Simplicity", "reaction": "The key variable. The user noted it seems 'very simple,' which could either be a positive (clean, elegant) or a negative (pedestrian) upon a full wearing."}
+      ],
+      "status_and_verdict": "Full Bottle Asset. High-probability 'Signature' or 'Library' love. Test is pending.",
+      "user_quotes": [
+        "Pink Rose Frozen is wonderful even if very simple."
+      ]
+    },
+    {
+      "fragrance_name": "Tobacco Noir (Parfums de Marly - Herod)",
+      "house": "Parfums de Marly",
+      "perfumer": "Olivier Pescheux",
+      "manufacturer": "Givaudan / Parfums de Marly",
+      "montagne_equivalent": "Tobacco Noir",
+      "acquisition_history": [
+        "User acquired a full bottle secondhand for a good price."
+      ],
+      "emotional_resonance": "A 'grower.' He enjoys it for personal wear, even if it doesn't feel like his public-facing style. A successful 'Library' acquisition.",
+      "olfactory_analysis": "A 'Harmonious-Fusion' Amber Spicy. This was a critical test that confirmed his love for the 'smooth, cherry-like, non-phenolic' style of tobacco, contrasting with the harshness of Tabac Vanille. It is a benchmark for the 'smooth tobacco' genre.",
+      "key_notes_and_user_reaction": [
+        {"note": "Smooth Tobacco (Cherry-like)", "reaction": "Positive. The core of his enjoyment."},
+        {"note": "Vanilla & Cinnamon", "reaction": "Positive. Aligns with his 'Vanilla Supremacy' and 'Warm Spice' pillars."}
+      ],
+      "status_and_verdict": "Confirmed 'Library' Scent. A benchmark for the smooth tobacco genre and a successful application of the 'Emergency Buy List' protocol.",
+      "user_quotes": [
+        "The tobacco vanilla combination just works so well.",
+        "I didn’t get the usual compliments, but I enjoyed it."
+      ]
+    },
+    {
+      "fragrance_name": "Sicilian Tobacco (Xerjoff - Naxos)",
+      "house": "Xerjoff",
+      "perfumer": "Christian Carbonnel",
+      "manufacturer": "Xerjoff",
+      "montagne_equivalent": "Sicilian Tobacco",
+      "acquisition_history": [
+        "User has a full bottle inbound, acquired secondhand due to a FOMO-driven opportunity."
+      ],
+      "emotional_resonance": "A highly anticipated, high-stakes acquisition.",
+      "olfactory_analysis": "A 'High-Contrast' Aromatic/Gourmand Fougère. It has a very high probability of being a 'Signature' love due to its architecture and its alignment with the 'smooth tobacco' and 'vanilla' pillars. The entire success of the fragrance hinges on a single, major unknown variable.",
+      "key_notes_and_user_reaction": [
+        {"note": "Honey-Tobacco-Vanilla", "reaction": "Positive (Hypothesis). Aligns perfectly with his taste."},
+        {"note": "Lavender", "reaction": "High-Risk Unknown. This is the primary diagnostic purpose of the fragrance. His aversion to the 'powdery' note in Rue Lafayette and 'simple aromatics' makes this a critical, high-stakes test."}
+      ],
+      "status_and_verdict": "Full Bottle Asset. The most important pending diagnostic. The result of this test will determine the future of the entire Aromatic Fougère genre for the user.",
+      "user_quotes": []
+    },
+    {
+      "fragrance_name": "Good Fortune (Viktor & Rolf)",
+      "house": "Viktor & Rolf",
+      "perfumers": ["Anne Flipo", "Nicolas Beaulieu"],
+      "manufacturer": "L'Oréal",
+      "montagne_equivalent": "N/A",
+      "acquisition_history": [
+        "User owns a full bottle (travel size), acquired in an early, unresearched blind buy."
+      ],
+      "emotional_resonance": "An accidental success. A fragrance he wasn't looking for but has come to appreciate as a key diagnostic tool.",
+      "olfactory_analysis": "A 'Harmonious-Fusion' Jasmine-centric Solar Floral. This was a critical diagnostic tool that provided two major breakthroughs.",
+      "key_notes_and_user_reaction": [
+        {"note": "Fennel (Anise)", "reaction": "Positive. The user found it 'not off-putting at all,' de-risking the licorice note in Ciel Elixir and proving his dislike is for concentrated, candy-like anise, not the complex aromatic note."},
+        {"note": "Jasmine", "reaction": "Critical Positive. The user's 'pleasant' reaction to the prominent jasmine, linked to a childhood memory, was the key that unlocked the entire 'White Floral' pillar of his taste."}
+      ],
+      "status_and_verdict": "Confirmed 'Library' Scent. Its primary value was as a successful, multi-purpose diagnostic tool.",
+      "user_quotes": []
+    },
+    {
+      "fragrance_name": "Spicebomb (Viktor & Rolf)",
+      "house": "Viktor & Rolf",
+      "perfumer": "Olivier Polge",
+      "manufacturer": "L'Oréal",
+      "montagne_equivalent": "N/A",
+      "acquisition_history": [
+        "User has a test bottle with low volume, acquired as a gift."
+      ],
+      "emotional_resonance": "A scent he enjoys and finds easy to wear.",
+      "olfactory_analysis": "A 'High-Contrast' Amber Spicy. This was a massive diagnostic breakthrough. It provided a definitive 'Yes' for multiple critical accords at once, significantly de-risking a large portion of the market for him. It is the benchmark for the modern 'Warm Spicy' genre.",
+      "key_notes_and_user_reaction": [
+        {"note": "Pink Pepper", "reaction": "Positive. Enjoys the zesty, spicy-fruit opening."},
+        {"note": "Cinnamon", "reaction": "Definitive Positive. Confirmed his affinity for 'hot spices,' overriding a previous negative hypothesis."},
+        {"note": "Smooth Tobacco", "reaction": "Positive. A key data point for the smooth tobacco genre."},
+        {"note": "Leather", "reaction": "Positive. His first successful test of a leather accord, providing a crucial entry point into the genre."},
+        {"note": "Labdanum", "reaction": "Positive (Implicit). Enjoys the overall warm, ambery base."}
+      ],
+      "status_and_verdict": "Confirmed 'Library' Scent. One of the most important and successful diagnostic tools in his collection.",
+      "user_quotes": [
+        "I have worn this a few times and not found anything about it to be challenging or offensive."
+      ]
+    }
+  ]
+}
+
+
+
+{
+  "dossier_version": "2.0",
+  "user_id": "Project USER",
+  "chapter_name": "Chapter 5: On-Hand Decants, Part 1",
+  "fragrance_database": [
+    {
+      "fragrance_name": "Ambre Musc (YSL - Tuxedo)",
+      "house": "Yves Saint Laurent",
+      "perfumer": "Juliette Karagueuzoglou",
+      "manufacturer": "L'Oréal",
+      "montagne_equivalent": "Ambre Musc",
+      "acquisition_history": [
+        "User has a 5mL decant from Ayybraham."
+      ],
+      "emotional_resonance": "Intellectually appreciated but not yet emotionally resonant. The user is methodically deconstructing it.",
+      "olfactory_analysis": "A 'High-Contrast' Amber Spicy / Modern Fougère. This is a critical diagnostic for the user's tolerance of patchouli and his affinity for the sophisticated 'vanilla-spice' profile. The user is actively testing this, trying to distinguish the patchouli and musk from the florals and vanilla.",
+      "key_notes_and_user_reaction": [
+        {"note": "Patchouli", "reaction": "Testing. The user hypothesizes this will be the 'challenging yet growing' element."},
+        {"note": "Vanilla", "reaction": "Positive. Identified as an 'easy to enjoy' element."},
+        {"note": "Ambergris/Musk", "reaction": "Testing. A key part of his deconstruction exercise to distinguish it from the other notes."},
+        {"note": "Violet Leaf (Floralcy)", "reaction": "Testing. He hypothesizes he will find this 'interesting.'"}
+      ],
+      "status_and_verdict": "Key Diagnostic In Progress. High probability 'Library' scent with an outside chance of becoming a 'Signature' love if the patchouli test is a success.",
+      "user_quotes": [
+        "Ambre Musc doesn’t bowl me over... maybe I have to wear it a few times."
+      ]
+    },
+    {
+      "fragrance_name": "Bleu Talisman (Ex Nihilo - Blue Talisman)",
+      "house": "Ex Nihilo",
+      "perfumer": "Jordi Fernández",
+      "manufacturer": "Givaudan",
+      "montagne_equivalent": "Bleu Talisman",
+      "acquisition_history": [
+        "User has a 5mL decant from a secondhand purchase."
+      ],
+      "emotional_resonance": "An initial 'love' that has since been recalibrated. Represents the thrill of discovering the modern ambroxan-heavy profile.",
+      "olfactory_analysis": "A 'High-Contrast' Woody Aromatic. The user's initial 'overwhelming enthusiasm' confirmed his love for the ambroxan accord. A later test on 'lived-in' skin was less captivating, teaching him a crucial lesson about the importance of a clean-skin application for fragrances with delicate, bright top notes.",
+      "key_notes_and_user_reaction": [
+        {"note": "Ambroxan", "reaction": "Definitive Love. This fragrance, along with Tygr, established this as a key positive pillar."},
+        {"note": "Ginger/Bergamot", "reaction": "Positive. The bright, high-contrast opening is a key part of the appeal."}
+      ],
+      "status_and_verdict": "Confirmed high-tier 'Library' or situational 'Signature' Love. It is the benchmark for the modern, radiant, ambroxan-dominant genre.",
+      "user_quotes": [
+        "fcuking fantastic, I guess that's what all the Ambroxan hype I've been ignoring for a decade was about."
+      ]
+    },
+    {
+      "fragrance_name": "Ciel Elixir (Dior - Sauvage Elixir)",
+      "house": "Dior",
+      "perfumer": "François Demachy",
+      "manufacturer": "LVMH",
+      "montagne_equivalent": "Ciel Elixir",
+      "acquisition_history": [
+        "User has a 5mL decant from Ayybraham."
+      ],
+      "emotional_resonance": "An intellectually intriguing scent, but not an emotional love. It is appreciated for its uniqueness and artistry.",
+      "olfactory_analysis": "A 'High-Contrast' Aromatic Fougère. This was a critical diagnostic that refined the user's understanding of 'medicinal' notes. It proved he can tolerate and even be intrigued by a dark, spicy, organic medicinal accord, as opposed to a sharp, synthetic one.",
+      "key_notes_and_user_reaction": [
+        {"note": "Licorice", "reaction": "Positive/Neutral. Identified as the source of the 'medicinal but not offensive' character. A successful test of a challenging note."},
+        {"note": "Hot Spices (Cinnamon)", "reaction": "Positive. His enjoyment of the warm spice dry-down was a key data point, reinforced by his Spicebomb test."},
+        {"note": "Lavender", "reaction": "Untested. The user did not comment on this specific note, which is a key part of the composition. A re-test is needed to focus on this."}
+      ],
+      "status_and_verdict": "Confirmed 'Library' Scent. A successful diagnostic that de-risked the 'hot spice' and licorice categories.",
+      "user_quotes": [
+        "Ciel Elixir is strange. Not bad. I detect something medicinal in there, but it’s not offensive like in Apple Cognac."
+      ]
+    },
+    {
+      "fragrance_name": "Citrus Rose (MFK - L’Homme À la Rose)",
+      "house": "Maison Francis Kurkdjian",
+      "perfumer": "Francis Kurkdjian",
+      "manufacturer": "LVMH",
+      "montagne_equivalent": "Citrus Rose",
+      "acquisition_history": [
+        "User has a 5mL decant from Ayybraham."
+      ],
+      "emotional_resonance": "A positive experience that confirmed his love for a note, but left him wanting more.",
+      "olfactory_analysis": "The user's primary diagnostic for a clean, masculine rose. The test was a success, but the fragrance itself was not a 'love.' The user's feedback indicates that while the architecture is sound, the execution was not powerful enough for his taste. It served its purpose by confirming the 'rose' pillar and setting the stage for a search for a more potent rose.",
+      "key_notes_and_user_reaction": [
+        {"note": "Rose", "reaction": "Definitive Love. His primary feedback was that he wished this component was stronger."},
+        {"note": "Grapefruit", "reaction": "Positive. He enjoys the bright, high-contrast opening."}
+      ],
+      "status_and_verdict": "Successful Diagnostic. Confirmed the 'Rose' pillar. It is a 'like' but not a candidate for full bottle acquisition.",
+      "user_quotes": [
+        "I liked the rose and wished it was rosier."
+      ]
+    },
+    {
+      "fragrance_name": "Gentleman Club (Gentleman's Nod - Le Cercle)",
+      "house": "Gentleman's Nod",
+      "perfumer": "Unidentified",
+      "manufacturer": "Gentleman's Nod",
+      "montagne_equivalent": "Gentleman Club",
+      "acquisition_history": [
+        "User has a 5mL decant from a secondhand purchase."
+      ],
+      "emotional_resonance": "Neutral. Appreciated analytically but not emotionally.",
+      "olfactory_analysis": "A complex Fougère. The user's neutral reaction ('nothing offensive about it') is a repeat of his initial experience with other highly complex 'kitchen sink' blends. This confirms his palate requires time to process such scents and they are unlikely to be 'love at first sniff.'",
+      "key_notes_and_user_reaction": [
+        {"note": "Complexity", "reaction": "Neutral. Did not trigger a negative 'kitchen sink' reaction, but did not captivate him either."}
+      ],
+      "status_and_verdict": "Low-priority 'Library' candidate. Serves as a benchmark for the classic, complex barbershop genre.",
+      "user_quotes": [
+        "Gentleman’s Club had nothing offensive about it. I’ll need a few test more to determine if I like it."
+      ]
+    },
+    {
+      "fragrance_name": "H A C I E N D A (Nishane - Hacivat)",
+      "house": "Nishane",
+      "perfumer": "Jorge Lee",
+      "manufacturer": "Nishane",
+      "montagne_equivalent": "H A C I E N D A",
+      "acquisition_history": [
+        "User has a 5mL decant from Ayybraham."
+      ],
+      "emotional_resonance": "Lukewarm. A scent he can appreciate but does not connect with personally.",
+      "olfactory_analysis": "The user's definitive diagnostic for the Chypre family. His verdict of 'did not jump at me' confirms a lack of affinity for the dry, earthy, and slightly bitter character of a powerful oakmoss base. This was a critical boundary-setting test.",
+      "key_notes_and_user_reaction": [
+        {"note": "Oakmoss", "reaction": "Definitive Negative. This is the source of his lack of enthusiasm. He confirmed this by saying 'now I know not to bark up that tree.'"},
+        {"note": "Pineapple/Grapefruit", "reaction": "Positive. He enjoyed the bright, fruity opening."}
+      ],
+      "status_and_verdict": "Successful Diagnostic Failure. Confirmed a dislike for the oakmoss-dominant Chypre genre. A definitive 'No.'",
+      "user_quotes": [
+        "didn’t like it the first time... the next time I tried it I liked it more... but did not jump at me."
+      ]
+    },
+    {
+      "fragrance_name": "Novillo Leather (BDK - Crème de Cuir)",
+      "house": "BDK Parfums",
+      "perfumer": "Violaine Collas",
+      "manufacturer": "Mane",
+      "montagne_equivalent": "Novillo Leather",
+      "acquisition_history": [
+        "User has a 5mL decant from Ayybraham."
+      ],
+      "emotional_resonance": "A significant 'grower.' Evolved from an interesting but unloved scent to something he actively wears, layers, and is inspired by.",
+      "olfactory_analysis": "A critical 'two-for-one' diagnostic. His initial reaction was 'manly in a way I cannot appreciate,' but this has evolved completely. This test successfully and positively identified both the 'clean suede' and 'Cashmeran' accords for his profile.",
+      "key_notes_and_user_reaction": [
+        {"note": "Suede Leather", "reaction": "Evolved from Neutral to Definitive Love. He now enjoys the 'creamy suede' and it has inspired a desire for a leather jacket."},
+        {"note": "Cashmeran", "reaction": "Positive (Implicit). This is the source of the soft, warm, enveloping texture he is enjoying in the dry-down."},
+        {"note": "Smoke/Incense", "reaction": "Positive (by its absence). He correctly noted the lack of these notes as a good thing."}
+      ],
+      "status_and_verdict": "Upgraded from Diagnostic to a confirmed 'Signature' or high-tier 'Library' Love. This was a massive success.",
+      "user_quotes": [
+        "The creamy suede is growing on me. Makes me want to buy the most supple leather jacket I can find."
+      ]
+    },
+    {
+      "fragrance_name": "Vanille Fraiche (Parfums de Marly - Layton)",
+      "house": "Parfums de Marly",
+      "perfumer": "Hamid Merati-Kashani",
+      "manufacturer": "Firmenich",
+      "montagne_equivalent": "Vanille Fraiche",
+      "acquisition_history": [
+        "User has a 5mL decant from a secondhand purchase."
+      ],
+      "emotional_resonance": "An unexpected and pleasant surprise. A fragrance he expected to dislike but found very interesting.",
+      "olfactory_analysis": "A breakthrough diagnostic. The user's positive reaction to the blend of vanilla, woods, and spice proved that his aversion to the 'medicinal' note is highly context-dependent. The geranium/aromatic accord in this composition was perceived as 'interesting' and well-blended, not offensive.",
+      "key_notes_and_user_reaction": [
+        {"note": "Vanilla", "reaction": "Positive. He enjoys how it blends with the other notes."},
+        {"note": "Woods & Spices (Geranium/Cardamom)", "reaction": "Positive. He found the combination 'very interesting' and noted that it works for his nose, contrary to his expectations."}
+      ],
+      "status_and_verdict": "Upgraded from a 'high-risk' diagnostic to a confirmed 'Library' scent with 'Signature' potential. A major success.",
+      "user_quotes": [
+        "Vanille Fraiche though had this very interesting combination of woods and spice... that blends well with the vanilla"
+      ]
+    }
+  ]
+}
+
+
+{
+  "dossier_version": "2.0",
+  "user_id": "Project USER",
+  "chapter_name": "Chapter 6: On-Hand Decants, Part 2",
+  "fragrance_database": [
+    {
+      "fragrance_name": "Afternoon Dive (LV - Afternoon Swim)",
+      "house": "Louis Vuitton",
+      "perfumer": "Jacques Cavallier-Belletrud",
+      "manufacturer": "LVMH",
+      "montagne_equivalent": "Afternoon Dive",
+      "acquisition_history": [
+        "User has a 2mL decant from Ayybraham."
+      ],
+      "emotional_resonance": "Anticipated to be low. The user expects this to be pleasant but uninteresting.",
+      "olfactory_analysis": "This is a low-priority diagnostic. Its purpose is to confirm the user's hypothesized dislike for high-quality but linear citrus fragrances that lack a contrasting base. It is expected to fall into the same 'pleasant but boring' category as `Harmony`.",
+      "key_notes_and_user_reaction": [
+        {"note": "Orange/Citrus", "reaction": "Untested in this specific linear context, but expected to be found pleasant but simplistic."},
+        {"note": "Linearity", "reaction": "Expected to be the primary point of failure for achieving 'captivating' status."}
+      ],
+      "status_and_verdict": "Untested Diagnostic. Low probability of being a 'like' or 'love.'",
+      "user_quotes": []
+    },
+    {
+      "fragrance_name": "Carnal Gray Extrait (BDK - Gris Charnel Extrait)",
+      "house": "BDK Parfums",
+      "perfumer": "Nathalie Lorson",
+      "manufacturer": "Mane",
+      "montagne_equivalent": "Carnal Gray Extrait",
+      "acquisition_history": [
+        "User has a 2.5mL decant from a secondhand purchase."
+      ],
+      "emotional_resonance": "A scent that is appreciated for its quality and pleasantness, but does not spark excitement.",
+      "olfactory_analysis": "A key early diagnostic that helped establish the 'Library' category. It is a 'Harmonious-Fusion' scent. The user's reaction ('good in every way... but it doesn't captivate me') was a foundational data point proving that well-made, linear, warm/cozy scents do not align with his 'Signature' profile.",
+      "key_notes_and_user_reaction": [
+        {"note": "Fig", "reaction": "Positive/Neutral. The test was a success, and this now serves as the user's primary benchmark for the fig note."},
+        {"note": "Sandalwood & Tonka Bean", "reaction": "Positive. The user enjoyed the creamy, non-cloying sweetness."},
+        {"note": "Longevity", "reaction": "Positive. The user noted its excellent longevity."}
+      ],
+      "status_and_verdict": "Confirmed 'Library' Scent. A successful diagnostic that helped define the boundaries of his preference for 'Harmonious-Fusion' architecture.",
+      "user_quotes": [
+        "It is good in every way... But it doesn't captivate me the same way L'eau D'issey, Malay Aklan, and Bleu Talisman do."
+      ]
+    },
+    {
+      "fragrance_name": "City of Stars (LV - City of Stars)",
+      "house": "Louis Vuitton",
+      "perfumer": "Jacques Cavallier-Belletrud",
+      "manufacturer": "LVMH",
+      "montagne_equivalent": "City of Lights",
+      "acquisition_history": [
+        "User has a 2mL decant from Ayybraham. He may have given it to his daughter."
+      ],
+      "emotional_resonance": "A surprising 'love.' The user's initial reaction was very strong and positive.",
+      "olfactory_analysis": "A critical diagnostic breakthrough. This 'Harmonious-Fusion' scent's success invalidated the user's hypothesis that he dislikes all 'powdery' fragrances. It proved his aversion is to a specific warm, dense, tonka-based powder (`Rue Lafayette`), while he enjoys the modern, cool, transparent, musk-based powder in this composition.",
+      "key_notes_and_user_reaction": [
+        {"note": "Powdery Musk", "reaction": "Definitive Positive. He found the delicate, hazy dry-down to be 'beautiful.'"},
+        {"note": "Citrus/Tiare Flower", "reaction": "Positive. He correctly perceived the opening as 'green' and 'delicate.'"}
+      ],
+      "status_and_verdict": "Confirmed 'Signature' Love Candidate. This test significantly refined his profile regarding powdery and musky notes and is a high-priority full bottle target.",
+      "user_quotes": [
+        "beautiful but I can’t say what it smelled like. I remember thinking 'get full bottle'."
+      ]
+    },
+    {
+      "fragrance_name": "Galilean (Marc-Antoine Barrois - Ganymede)",
+      "house": "Marc-Antoine Barrois",
+      "perfumer": "Quentin Bisch",
+      "manufacturer": "Givaudan",
+      "montagne_equivalent": "Galilean",
+      "acquisition_history": [
+        "User has a 2mL decant from Ayybraham."
+      ],
+      "emotional_resonance": "A definitive lack of connection. The scent was found to be uninteresting.",
+      "olfactory_analysis": "A successful diagnostic failure. This fragrance is a masterpiece of modern synthetic perfumery. The user's neutral-negative reaction ('not impressed... cold like a morgue table') provided a crucial boundary for his taste. It proves he does not enjoy the avant-garde, cold-mineralic, and highly abstract style of perfumery.",
+      "key_notes_and_user_reaction": [
+        {"note": "Mineralic Accord (Akigalawood/Violet Leaf)", "reaction": "Definitive Negative. Perceived as 'cold' and 'boring,' lacking the warmth or familiar fruit/floral/vanilla notes he enjoys."}
+      ],
+      "status_and_verdict": "Confirmed 'No.' A successful boundary test that de-prioritizes the entire 'cold mineralic' genre.",
+      "user_quotes": [
+        "Galilean I recall not being impressed. Was it boring? Seems unlikely for a Quentin Bisch.",
+        "Galilean was cold (like a morgue table) and mineralic."
+      ]
+    },
+    {
+      "fragrance_name": "Imaginary Intense (Montagne Original)",
+      "house": "Montagne Parfums",
+      "perfumer": "Montagne Parfums",
+      "manufacturer": "Montagne Parfums",
+      "montagne_equivalent": "Imaginary Intense",
+      "acquisition_history": [
+        "User has a 2.5mL decant from a secondhand purchase."
+      ],
+      "emotional_resonance": "Analytically interesting but not emotionally appealing. A purely intellectual exercise.",
+      "olfactory_analysis": "A critical diagnostic test that recalibrated the user's aversion to 'smoke.' The user did not find the prominent smoky birch tar 'offensive,' proving his dislike is not for all smoke but for specific harsh, dry, or atmospheric types. He correctly identified the similarity between the residual birch tar and the phenolic mid-notes of Tabac Vanille.",
+      "key_notes_and_user_reaction": [
+        {"note": "Smoky Birch Tar", "reaction": "Neutral. 'Doesn't smell offensive... I don't love it either.' A successful tolerance test."},
+        {"note": "Architectural Blend", "reaction": "Negative. He noted it 'smells nothing like Imaginary,' confirming his preference for the clean, high-contrast architecture of the original over this smoky, blended hybrid."}
+      ],
+      "status_and_verdict": "Successful Diagnostic. Confirmed his architectural preference and refined his 'smoke' aversion to be more specific. A definitive 'No' for acquisition.",
+      "user_quotes": [
+        "the birch tar smoke does seem remarkably similer to the middle notes of tabac vanille."
+      ]
+    },
+    {
+      "fragrance_name": "Intermission (Amouage - Interlude Man)",
+      "house": "Amouage",
+      "perfumer": "Pierre Negrin",
+      "manufacturer": "Firmenich",
+      "montagne_equivalent": "Intermission",
+      "acquisition_history": [
+        "User has a 2mL decant from Ayybraham."
+      ],
+      "emotional_resonance": "A scent that is respected for its art but has no personal appeal.",
+      "olfactory_analysis": "A successful diagnostic failure. The user's reaction ('not offensive, but it just isn't for me') provided a definitive 'No' for fragrances where a dry, bitter, savory herbal note is the dominant star. This established a clear boundary for his taste.",
+      "key_notes_and_user_reaction": [
+        {"note": "Oregano", "reaction": "Definitive Negative. He accurately described it as 'dry, herbal, and bitter' and confirmed it was not a note he would choose to wear, despite not finding it unpleasant. The note's prominence, even in the dry-down, was the key reason for failure."}
+      ],
+      "status_and_verdict": "Confirmed 'No.' A successful boundary test that de-prioritizes the entire savory-herbal genre.",
+      "user_quotes": [
+        "The oregano topnote was unexpected... It isn't offensive, but it just isn't for me."
+      ]
+    },
+    {
+      "fragrance_name": "L’epice de Mer (Creed - Viking)",
+      "house": "Creed",
+      "perfumer": "Olivier Creed",
+      "manufacturer": "IFF",
+      "montagne_equivalent": "L’epice de Mer",
+      "acquisition_history": [
+        "User has a 2mL decant from Ayybraham."
+      ],
+      "emotional_resonance": "A clear lack of connection or excitement.",
+      "olfactory_analysis": "A successful diagnostic failure. The user's verdict of 'not impressed' provided a definitive 'No' for the peppermint-forward aromatic profile. This established another clear boundary for his taste within the broader 'fresh' category.",
+      "key_notes_and_user_reaction": [
+        {"note": "Peppermint & Pink Pepper", "reaction": "Definitive Negative. The user perceived the combination as 'herbal' and was not impressed by the 'cold-spice' character."}
+      ],
+      "status_and_verdict": "Confirmed 'No.' A successful boundary test that de-prioritizes the cold-spice aromatic genre.",
+      "user_quotes": [
+        "I tried L’epice de Mer and I was not impressed. I suspect I won’t like other mint forward scents."
+      ]
+    },
+    {
+      "fragrance_name": "Malay Aklan (Creed - Millesime Impérial)",
+      "house": "Creed",
+      "perfumer": "Pierre Bourdon (uncredited)",
+      "manufacturer": "IFF",
+      "montagne_equivalent": "Malay Aklan",
+      "acquisition_history": [
+        "User has a 2.5mL decant from a secondhand purchase."
+      ],
+      "emotional_resonance": "A positive early experience, though it has been superseded by more captivating scents.",
+      "olfactory_analysis": "An important early diagnostic. The user's positive reaction was driven by his perception of it as a 'fruity-musk' with a 'spicy wood backbone.' He did not perceive the 'salty saltwater melon' notes that many others do. This confirms his affinity for the fruity-musk genre but also his dislike for literal marine accords (as he didn't even notice this one).",
+      "key_notes_and_user_reaction": [
+        {"note": "Fruity Accord (Melon/Citrus)", "reaction": "Positive. Perceived as heavenly."},
+        {"note": "Musk & Woods", "reaction": "Positive. Identified as the 'spicy wood backbone' he enjoyed."}
+      ],
+      "status_and_verdict": "Confirmed 'Like.' A useful benchmark for the fruity-musk genre and for his specific interpretation of 'aquatic' notes.",
+      "user_quotes": [
+        "smells heavenly with that spicy wood backbone"
+      ]
+    }
+  ]
+}
+
+
+code
+JSON
+download
+content_copy
+expand_less
+
+{
+  "dossier_version": "2.0",
+  "user_id": "Project USER",
+  "chapter_name": "Chapter 7: On-Hand Decants, Part 3",
+  "fragrance_database": [
+    {
+      "fragrance_name": "Marine Zest (Fragrance du Bois - Zest Marin)",
+      "house": "Fragrance du Bois",
+      "perfumer": "Undisclosed",
+      "manufacturer": "Fragrance du Bois",
+      "montagne_equivalent": "Marine Zest",
+      "acquisition_history": [
+        "User has a 2.5mL decant from a secondhand purchase."
+      ],
+      "emotional_resonance": "A definitive lack of interest. The scent was perceived as bland and uninspired.",
+      "olfactory_analysis": "A critical diagnostic failure that established a major boundary. The user's verdict of 'boring' provided a definitive 'No' for the modern, ambergris-driven, literal 'marine' genre. This test, contrasted with his fondness for 90s-style 'aquatics' (L'Eau d'Issey, Cool Water), was a breakthrough in refining his preference for fresh scents.",
+      "key_notes_and_user_reaction": [
+        {"note": "Marine Accord (Ambergris-based)", "reaction": "Definitive Negative. The user described it as a 'non-fragrance,' indicating a complete lack of emotional or intellectual engagement with the accord."},
+        {"note": "Citrus (Lemon/Grapefruit)", "reaction": "Neutral. The citrus was not enough to save the fragrance from being perceived as boring."}
+      ],
+      "status_and_verdict": "Confirmed 'No.' A successful boundary test that de-prioritizes the entire literal 'marine' genre.",
+      "user_quotes": [
+        "Marine zest was boring, I feel like marine accord is like a non-fragrance."
+      ]
+    },
+    {
+      "fragrance_name": "Meteorite (LV - Météore)",
+      "house": "Louis Vuitton",
+      "perfumer": "Jacques Cavallier-Belletrud",
+      "manufacturer": "LVMH",
+      "montagne_equivalent": "Meteorite",
+      "acquisition_history": [
+        "User acquired a 2mL decant from Ayybraham but has since misplaced it or given it away."
+      ],
+      "emotional_resonance": "None. The experience was so unmemorable that the user cannot recall what it smells like.",
+      "olfactory_analysis": "This was a surprising and highly informative diagnostic failure. Previously hyped as a potential 'Holy Grail' due to its on-paper alignment with the user's preferences (Cavallier, high-contrast, citrus, vetiver). Its failure to make any impression is a critical data point. It strongly suggests that the user's affinity for Vetiver is not as a primary star note, but only as a supporting player in a more complex blend. This significantly downgraded the entire 'clean vetiver' genre as a target.",
+      "key_notes_and_user_reaction": [
+        {"note": "Vetiver", "reaction": "Implicitly Negative/Neutral. The vetiver-dominant structure was 'so unmemorable' he forgot the scent entirely."}
+      ],
+      "status_and_verdict": "Confirmed 'No.' A successful, if surprising, diagnostic that proved a fragrance that is perfect on paper can fail in practice. This was a key test that refined his vetiver preference.",
+      "user_quotes": [
+        "Meteorite was so unmemorable I literally don't remember what it smells like."
+      ]
+    },
+    {
+      "fragrance_name": "Noir Oud (Fragrance du Bois - Oud Noir Intense)",
+      "house": "Fragrance du Bois",
+      "perfumer": "Nanako Ogi",
+      "manufacturer": "Fragrance du Bois",
+      "montagne_equivalent": "Noir Oud",
+      "acquisition_history": [
+        "User has a 2mL decant from Ayybraham which is nearly empty from repeated testing."
+      ],
+      "emotional_resonance": "A surprising intimate 'love'. A scent he would never wear out but enjoys for personal, bedtime wear. A gateway to appreciating darker, more complex profiles.",
+      "olfactory_analysis": "A paradigm-shifting test. It was the user's designated 'Challenging Oud Test' and it succeeded. He correctly identified it as non-animalic and from a 'different time.' This experience re-opened the entire 'dark oud/rose' category for exploration, proving his aversion is to animalic or medicinal oud, not all dark oud.",
+      "key_notes_and_user_reaction": [
+        {"note": "Dark Oud", "reaction": "Positive, in this specific blended context. He can detect the distinct oud, and while it doesn't fire up his 'I want that!' circuits for public wear, he loves it for private enjoyment."},
+        {"note": "Rose/Saffron", "reaction": "Positive. These notes blend with the oud to make it palatable and enjoyable for him."}
+      ],
+      "status_and_verdict": "Confirmed 'Library' Love. This single test recalibrated his entire profile regarding dark oud and complex florals.",
+      "user_quotes": [
+        "It comes off as 'grandpa' or from a different time.",
+        "I'd never wear it out but I love that smell when in the sheets."
+      ]
+    },
+    {
+      "fragrance_name": "Oud Verde (FDB - Oud Vert Intense)",
+      "house": "Fragrance du Bois",
+      "perfumer": "Alexandrino G aromes",
+      "manufacturer": "Givaudan",
+      "montagne_equivalent": "Oud Verde",
+      "acquisition_history": [
+        "User has a 2.5mL decant from a secondhand purchase."
+      ],
+      "emotional_resonance": "A pleasant and intellectually appreciated scent, but not one that sparks passion.",
+      "olfactory_analysis": "This was the user's first, successful 'gateway' oud test. He correctly identified that the oud 'melted into his skin' and was not medicinal. This established his baseline preference for clean, smooth, green, non-animalic oud.",
+      "key_notes_and_user_reaction": [
+        {"note": "Clean Oud", "reaction": "Positive. He found it to be an 'unchallenging Oud' that he was good with."},
+        {"note": "Green Notes (Bergamot/Cardamom)", "reaction": "Positive. He enjoyed the bright, 'Vert' aspect of the fragrance."}
+      ],
+      "status_and_verdict": "Confirmed 'Like.' A successful diagnostic that established the baseline for the user's oud preference.",
+      "user_quotes": []
+    },
+    {
+      "fragrance_name": "Rich Santal (FDB - Santal Complet)",
+      "house": "Fragrance du Bois",
+      "perfumer": "Undisclosed",
+      "manufacturer": "Fragrance du Bois",
+      "montagne_equivalent": "Rich Santal",
+      "acquisition_history": [
+        "User has a 2.5mL decant from a secondhand purchase."
+      ],
+      "emotional_resonance": "Untested.",
+      "olfactory_analysis": "This is a key pending diagnostic. It is the user's primary tool for testing a creamy, gourmand, coconut-sandalwood profile. It will be a crucial test for the 'lactonic' genre and will serve as a direct comparison to the dry sandalwood of `Eau Santal`.",
+      "key_notes_and_user_reaction": [
+        {"note": "Sandalwood (Creamy)", "reaction": "Untested."},
+        {"note": "Coconut", "reaction": "Untested."}
+      ],
+      "status_and_verdict": "Untested Diagnostic. High 'Library' potential.",
+      "user_quotes": []
+    },
+    {
+      "fragrance_name": "Rue Lafayette (Bond No. 9 - Lafayette Street)",
+      "house": "Bond No. 9",
+      "perfumer": "Undisclosed",
+      "manufacturer": "Bond No. 9",
+      "montagne_equivalent": "Rue Lafayette",
+      "acquisition_history": [
+        "User has a 2.5mL decant from a secondhand purchase."
+      ],
+      "emotional_resonance": "A powerful negative memory association that overrides any appreciation for the scent itself.",
+      "olfactory_analysis": "A critical diagnostic failure that established a major boundary. The user's verdict of 'pedestrian' and its association with his 'Aunt Meera's talcum powder' provided a definitive 'No' for the classic, warm, dense, tonka-based powdery accord. This test was the key to unlocking the distinction between different types of 'powder.'",
+      "key_notes_and_user_reaction": [
+        {"note": "Powdery Accord (Tonka-based)", "reaction": "Definitive Negative (due to memory association)."}
+      ],
+      "status_and_verdict": "Confirmed 'No.' A successful boundary test that de-prioritizes the entire classic powdery genre.",
+      "user_quotes": [
+        "pleasant but it's associated with my childhood memory of my aunt Meera's talcum powder"
+      ]
+    },
+    {
+      "fragrance_name": "The 212 (MFK - 724)",
+      "house": "Maison Francis Kurkdjian",
+      "perfumer": "Francis Kurkdjian",
+      "manufacturer": "LVMH",
+      "montagne_equivalent": "The 212",
+      "acquisition_history": [
+        "User has a 2.5mL decant from a secondhand purchase."
+      ],
+      "emotional_resonance": "A clear lack of connection. Found to be uninteresting.",
+      "olfactory_analysis": "A successful diagnostic failure. The user's verdict of 'pedestrian' provided a definitive 'No' for the aldehydic, 'clean laundry' profile. This confirmed his preference for complexity over minimalist 'clean' scents, distinguishing it from his enjoyment of the more complex `Image`.",
+      "key_notes_and_user_reaction": [
+        {"note": "Aldehydes & White Musk", "reaction": "Definitive Negative. The combination was perceived as 'pedestrian' and uninteresting."}
+      ],
+      "status_and_verdict": "Confirmed 'No.' A successful boundary test that de-prioritizes the abstract, aldehydic-clean genre.",
+      "user_quotes": [
+        "I recall thinking it was pedestrian."
+      ]
+    }
+  ]
+}
+
+
+{
+  "dossier_version": "2.0",
+  "user_id": "Project USER",
+  "chapter_name": "Chapter 8: On-Hand Carded Samples",
+  "fragrance_database": [
+    {
+      "fragrance_name": "Bad Boy (Carolina Herrera)",
+      "house": "Carolina Herrera",
+      "perfumers": ["Quentin Bisch", "Louise Turner"],
+      "manufacturer": "Puig",
+      "montagne_equivalent": "N/A",
+      "acquisition_history": [
+        "User has a 1.2mL carded sample from a Sephora order."
+      ],
+      "emotional_resonance": "A positive and easy-to-like scent. The user has fond memories of it.",
+      "olfactory_analysis": "A successful diagnostic test. The user's 'like' for this fragrance provided a key positive data point for the sweet, modern, woody-amber base (tonka bean, amberwood) that is prevalent in the designer market. It also confirmed his enjoyment of Quentin Bisch's work in a commercial context.",
+      "key_notes_and_user_reaction": [
+        {"note": "Tonka Bean & Amberwood", "reaction": "Positive. Confirmed his tolerance and enjoyment of this sweet, modern base."},
+        {"note": "Aromatic Spice (Pepper/Sage)", "reaction": "Positive."}
+      ],
+      "status_and_verdict": "Confirmed 'Like.' A successful diagnostic that de-risked a large portion of the modern designer market.",
+      "user_quotes": [
+        "I did like Bad Boy. Quentin Bisch clearly does good work."
+      ]
+    },
+    {
+      "fragrance_name": "Le Male Elixir (Jean Paul Gaultier)",
+      "house": "Jean Paul Gaultier",
+      "perfumer": "Quentin Bisch",
+      "manufacturer": "Puig",
+      "montagne_equivalent": "N/A",
+      "acquisition_history": [
+        "User has a 1.2mL carded sample from a Sephora order."
+      ],
+      "emotional_resonance": "Untested.",
+      "olfactory_analysis": "This is a key pending diagnostic. It is designed to test the user's upper limit for sweetness in a modern 'clubbing' scent. It will also serve as a crucial test for a 'sweet lavender' accord, which will provide a valuable counterpoint to the more aromatic lavender tests.",
+      "key_notes_and_user_reaction": [
+        {"note": "Honey & Tonka (Sweetness)", "reaction": "Untested."},
+        {"note": "Lavender (Sweet)", "reaction": "Untested."}
+      ],
+      "status_and_verdict": "Untested Diagnostic. High value for mapping sweetness and lavender boundaries.",
+      "user_quotes": []
+    },
+    {
+      "fragrance_name": "Acqua di Gioia (Giorgio Armani)",
+      "house": "Giorgio Armani",
+      "perfumers": ["Loc Dong", "Anne Flipo", "Dominique Ropion"],
+      "manufacturer": "L'Oréal",
+      "montagne_equivalent": "N/A",
+      "acquisition_history": [
+        "User has a 1.5mL carded sample from a Sephora order."
+      ],
+      "emotional_resonance": "Low personal relevance, as it is a feminine-marketed scent.",
+      "olfactory_analysis": "This is an optional, academic diagnostic. Its primary value is in comparing its sweet aquatic profile (mint, brown sugar) to the user's other aquatic and sweet fragrances. It is a low-priority test.",
+      "key_notes_and_user_reaction": [
+        {"note": "Sweet Aquatic (Mint/Brown Sugar)", "reaction": "Untested."}
+      ],
+      "status_and_verdict": "Low-priority, optional diagnostic.",
+      "user_quotes": []
+    },
+    {
+      "fragrance_name": "Golden Nectar (Nest)",
+      "house": "Nest",
+      "perfumer": "Patricia Choux",
+      "manufacturer": "Nest",
+      "montagne_equivalent": "N/A",
+      "acquisition_history": [
+        "User has a 1.2mL carded sample from a Sephora order."
+      ],
+      "emotional_resonance": "Untested.",
+      "olfactory_analysis": "This is a diagnostic for a sweet, nectarous floral profile. It will test the user's reaction to a honeysuckle and orchid accord, which is different from the clean white florals he has responded positively to.",
+      "key_notes_and_user_reaction": [
+        {"note": "Honeysuckle & Orchid", "reaction": "Untested."}
+      ],
+      "status_and_verdict": "Untested Diagnostic.",
+      "user_quotes": []
+    },
+    {
+      "fragrance_name": "MYSLF (Yves Saint Laurent)",
+      "house": "Yves Saint Laurent",
+      "perfumer": "Christophe Raynaud",
+      "manufacturer": "L'Oréal",
+      "montagne_equivalent": "N/A",
+      "acquisition_history": [
+        "User has a 1.5mL carded sample from a Sephora order."
+      ],
+      "emotional_resonance": "A clear lack of connection. The user was not impressed.",
+      "olfactory_analysis": "A successful diagnostic failure. The user's verdict of 'too clean' and 'not impressed' confirmed his aversion to minimalist, simple, clean floral compositions. This result, contrasted with his enjoyment of the more complex `Image`, was a key data point in establishing his preference for complexity in the floral genre.",
+      "key_notes_and_user_reaction": [
+        {"note": "Orange Blossom", "reaction": "Negative, in this simple context. He found the overall composition to be 'too clean.'"},
+        {"note": "Ambrofix (Ambroxan)", "reaction": "Neutral. The presence of this note was not enough to make the fragrance appealing."}
+      ],
+      "status_and_verdict": "Confirmed 'No.' A successful boundary test that refined his floral preference, proving he requires complexity.",
+      "user_quotes": [
+        "I was not impressed with MYSLF"
+      ]
+    },
+    {
+      "fragrance_name": "Uomo Born In Roma (Valentino)",
+      "house": "Valentino",
+      "perfumers": ["Antoine Maisondieu", "Guillaume Flavigny"],
+      "manufacturer": "L'Oréal",
+      "montagne_equivalent": "N/A",
+      "acquisition_history": [
+        "User has a 1.2mL carded sample from a Sephora order."
+      ],
+      "emotional_resonance": "The user does not recall being excited by it.",
+      "olfactory_analysis": "This is a key pending diagnostic for a salty-herbal aromatic profile. It will test the interplay of aromatic sage, a distinct salt note, and a vetiver base. It will provide a crucial point of comparison to the salty-marine of `Marine Zest` and the earthy-vetiver of `Meteorite`.",
+      "key_notes_and_user_reaction": [
+        {"note": "Salty-Herbal Accord", "reaction": "Untested, but initial memory is unenthusiastic."}
+      ],
+      "status_and_verdict": "Untested Diagnostic. High value for mapping his preference within the 'salty' and 'aromatic' genres.",
+      "user_quotes": []
+    }
+  ]
+}
+
+

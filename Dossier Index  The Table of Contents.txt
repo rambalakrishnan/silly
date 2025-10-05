@@ -1,0 +1,409 @@
+Schema 1: fragrance_dossier_entry
+This schema defines the structure for a single, comprehensive entry about a specific fragrance within our knowledge base.
+
+
+{
+  "type": "object",
+  "description": "A comprehensive dossier entry for a single fragrance, detailing its metadata, user acquisition history, and a detailed analysis of the user's reaction to it.",
+  "properties": {
+    "fragrance_name": {
+      "type": "string",
+      "description": "The full, official name of the fragrance, including the house and any specific concentration or flanker name (e.g., 'Elysian Fraiche (Roja Dove - Elysian Parfum)')."
+    },
+    "house": {
+      "type": "string",
+      "description": "The name of the primary fragrance house that released the original scent."
+    },
+    "perfumer": {
+      "type": "string",
+      "description": "The name of the credited perfumer or perfumers. Use 'Unidentified' if unknown."
+    },
+    "manufacturer": {
+      "type": "string",
+      "description": "The parent company or primary manufacturer/fragrance house that produces the scent (e.g., 'LVMH', 'Givaudan', 'Puig')."
+    },
+    "montagne_equivalent": {
+      "type": "string",
+      "description": "The name of the Montagne Parfums interpretation of this fragrance. Use 'N/A' if it is an original not cloned by Montagne or a Montagne Original."
+    },
+    "acquisition_history": {
+      "type": "array",
+      "description": "A chronological log of how and when the user acquired this fragrance, including format (full bottle, decant, sample) and source (Montagne, Ayybraham, secondhand, gift).",
+      "items": {
+        "type": "string"
+      }
+    },
+    "emotional_resonance": {
+      "type": "string",
+      "description": "A qualitative analysis of the user's emotional connection to the fragrance. Describes whether it is a 'Signature' love, a 'Library' scent for personal enjoyment, a 'grower,' or elicits a specific memory or feeling."
+    },
+    "olfactory_analysis": {
+      "type": "string",
+      "description": "A technical deconstruction of the fragrance's scent profile and architecture (e.g., 'High-Contrast', 'Harmonious-Fusion'). Details how its composition aligns with or challenges the user's established preferences and the key diagnostic insights gained from testing it."
+    },
+    "key_notes_and_user_reaction": {
+      "type": "array",
+      "description": "An array of objects detailing the user's specific reaction to the most prominent notes or accords within the fragrance.",
+      "items": {
+        "type": "object",
+        "properties": {
+          "note": {
+            "type": "string",
+            "description": "The name of the specific olfactory note or accord (e.g., 'Grapefruit', 'Dry Tobacco Leaf')."
+          },
+          "reaction": {
+            "type": "string",
+            "description": "A qualitative description of the user's reaction to this specific note, categorized as 'Positive', 'Negative', 'Mixed', 'Neutral', 'Untested', or 'Hypothesis'."
+          }
+        },
+        "required": ["note", "reaction"]
+      }
+    },
+    "status_and_verdict": {
+      "type": "string",
+      "description": "The final, actionable conclusion for this fragrance. Classifies it as a 'Confirmed Signature Love', 'Confirmed Library Scent', 'Confirmed No', 'Successful Diagnostic', or 'Pending Test'."
+    },
+    "user_quotes": {
+      "type": "array",
+      "description": "An array containing direct, verbatim quotes from the user that are particularly insightful or representative of his experience with the fragrance.",
+      "items": {
+        "type": "string"
+      }
+    }
+  },
+  "required": [
+    "fragrance_name",
+    "house",
+    "perfumer",
+    "manufacturer",
+    "acquisition_history",
+    "emotional_resonance",
+    "olfactory_analysis",
+    "key_notes_and_user_reaction",
+    "status_and_verdict"
+  ]
+}
+
+Dossier Index: The Table of Contents
+Chapter 1: Foundational Scents (The "Primers")
+L'Eau d'Issey Pour Homme (Vintage Formulation)
+Lily of the Valley (Perfume Oil)
+Old Spice After Shave
+Neutrogena - Rainbath Shower Gel
+Davidoff - Cool Water
+Kenzo - Kenzo pour Homme
+Chapter 2: Full Bottles (The Core Assets), Part 1
+Elysian Fraiche (Roja Dove - Elysian Parfum)
+Tygr (Bvlgari - Le Gemme Tygar, Discontinued Original)
+Tygr Cologne (Bvlgari - Le Gemme Tygar, Modern)
+God of Fiery (Stéphane Humbert Lucas 777 - God of Fire)
+Triumph of Bacchus (Argos)
+Apple Cognac (Kilian - Apple Brandy on the Rocks)
+Chapter 3: Full Bottles (The Core Assets), Part 2
+Noir Oud (Fragrance du Bois - Oud Noir Intense) - Correction: This was a decant, not a full bottle. It will be moved to the decant section.
+Tabac Vanille (Tom Ford - Tobacco Vanille)
+Imaginary (Louis Vuitton - Imagination)
+Immensity (Louis Vuitton - L'Immensité)
+Harmony (Louis Vuitton - Symphony)
+Pineapple Frais (Creed - Aventus Cologne)
+Gentle Silver (MFK - Gentle Fluidity Silver)
+Cognac d'Ange (Kilian - Angels' Share)
+Chapter 4: Full Bottles (The Core Assets), Part 3
+Image 45 (Amouage - Reflection 45 Man)
+Another 14 (Le Labo - Another 13)
+French Cherry (Mind Games - French Defense)
+Pink Rose Frozen (Parfums de Marly - Delina La Rosée)
+Tobacco Noir (Parfums de Marly - Herod)
+Sicilian Tobacco (Xerjoff - Naxos)
+Good Fortune (Viktor & Rolf)
+Spicebomb (Viktor & Rolf)
+Chapter 5: On-Hand Decants, Part 1
+Ambre Musc (YSL - Tuxedo)
+Bleu Talisman (Ex Nihilo - Blue Talisman)
+Ciel Elixir (Dior - Sauvage Elixir)
+Citrus Rose (MFK - L’Homme À la Rose)
+Gentleman Club (Gentleman's Nod - Le Cercle)
+H A C I E N D A (Nishane - Hacivat)
+Novillo Leather (BDK - Crème de Cuir)
+Vanille Fraiche (Parfums de Marly - Layton)
+Chapter 6: On-Hand Decants, Part 2
+Afternoon Dive (LV - Afternoon Swim)
+Carnal Gray Extrait (BDK - Gris Charnel Extrait)
+City of Stars (LV - City of Stars)
+Galilean (Marc-Antoine Barrois - Ganymede)
+Imaginary Intense (Montagne Original)
+Intermission (Amouage - Interlude Man)
+L’epice de Mer (Creed - Viking)
+Malay Aklan (Creed - Millesime Impérial)
+Chapter 7: On-Hand Decants, Part 3
+Marine Zest (FDB - Zest Marin)
+Meteorite (LV - Météore)
+Noir Oud (Fragrance du Bois - Oud Noir Intense) - Moved to its correct location.
+Oud Verde (FDB - Oud Vert Intense)
+Rich Santal (FDB - Santal Complet)
+Rue Lafayette (Bond No. 9 - Lafayette Street)
+The 212 (MFK - 724)
+Chapter 8: On-Hand Carded Samples (The Sephora Haul)
+Bad Boy (Carolina Herrera)
+Le Male Elixir (Jean Paul Gaultier)
+Acqua di Gioia (Giorgio Armani)
+Golden Nectar (Nest)
+MYSLF (Yves Saint Laurent)
+Uomo Born In Roma (Valentino)
+
+
+
+
+
+### **Schema 2: `accord_dossier_entry`**
+
+This schema defines the structure for a single, comprehensive entry about the user's relationship with a specific olfactory accord.
+
+json
+{
+  "type": "object",
+  "description": "A comprehensive dossier entry for a single olfactory accord, synthesizing the user's reactions to it across all tested fragrances to build a predictive profile.",
+  "properties": {
+    "accord_name": {
+      "type": "string",
+      "description": "The name of the specific olfactory accord or note family (e.g., 'Vanilla', 'Leather & Suede')."
+    },
+    "user_affinity": {
+      "type": "string",
+      "description": "A summary classification of the user's overall relationship with this accord, such as 'Confirmed Love (Pillar)', 'Mixed / Context-Dependent', or 'Definitive Negative'."
+    },
+    "olfactory_profile": {
+      "type": "string",
+      "description": "A brief, objective description of what the accord smells like and its role in perfumery."
+    },
+    "user_history_and_analysis": {
+      "type": "string",
+      "description": "A verbose, narrative synthesis of the user's entire history with this accord. This includes formative memories, key breakthrough tests, and an analysis of the specific contexts in which he likes or dislikes the note."
+    },
+    "positive_benchmarks": {
+      "type": "array",
+      "description": "A list of specific fragrances where the user had a confirmed positive reaction to this accord.",
+      "items": {
+        "type": "string"
+      }
+    },
+    "negative_benchmarks": {
+      "type": "array",
+      "description": "A list of specific fragrances where the user had a confirmed negative reaction to this accord.",
+      "items": {
+        "type": "string"
+      }
+    },
+    "strategic_recommendation": {
+      "type": "string",
+      "description": "An actionable, forward-looking strategy for this accord. Specifies whether to 'PURSUE', 'EXPLORE', 'PROCEED WITH CAUTION', or 'AVOID' this category, and lists the key pending diagnostics needed to gather more data."
+    }
+  },
+  "required": [
+    "accord_name",
+    "user_affinity",
+    "olfactory_profile",
+    "user_history_and_analysis",
+    "strategic_recommendation"
+  ]
+}
+
+
+
+
+
+
+Dossier Index: The Olfactory Accords
+
+Chapter 1: The Core Pillars (Confirmed Positives)
+
+Vanilla
+
+Rose
+
+Jasmine (& White Florals)
+
+Rounded/Juicy Fruits (Cherry, Mango, etc.)
+
+Ambroxan
+
+Chapter 2: The Foundational Woods & Spices
+
+Sandalwood
+
+Vetiver
+
+Patchouli
+
+Warm/Hot Spices (Cinnamon, Nutmeg, etc.)
+
+Fresh Spices (Pink Pepper, Ginger)
+
+Chapter 3: The Modern & Aromatic Accords
+
+Musk (Clean, Fruity, Powdery)
+
+Leather & Suede
+
+Aromatics (Juniper & Lavender)
+
+Aquatic & Marine Accords
+
+Powdery Accords (Tonka vs. Musk)
+
+Chapter 4: The Challenging & High-Risk Accords
+
+Oud (Clean vs. Dark)
+
+Smoke & Birch Tar
+
+Incense & Resins (Labdanum)
+
+"Medicinal" & Phenolic Accords
+
+Animalics (Hypothesized/Untested)
+
+Complex/"Kitchen Sink" Blends
+
+Chapter 5: The Niche & Gourmand Frontiers
+
+Boozy Accords (Rum, Cognac, Whiskey)
+
+Gourmand (Lactonic/Nutty - Coconut/Almond)
+
+Gourmand (Cacao & Coffee)
+
+Abstract/Mineralic Accords
+
+Green & Herbal Accords (Tea, Fig, Oregano, etc.)
+
+{
+  "type": "object",
+  "description": "A comprehensive database tracking the market status and availability of all Montagne Parfums fragrances across the primary retail site and key secondary markets. Version 2.0 uses quantitative, script-driven metrics for secondary market activity.",
+  "properties": {
+    "fragrance_name": {
+      "type": "string",
+      "description": "The official Montagne Parfums name for the fragrance (e.g., 'Feu Rouge'). This is the primary key."
+    },
+    "inspired_by": {
+      "type": "string",
+      "description": "The original fragrance that inspired the Montagne version (e.g., 'BDK - Rouge Smoking')."
+    },
+    "montagne_retail_status": {
+      "type": "object",
+      "description": "Data related to the fragrance's status on the official Montagne Parfums website.",
+      "properties": {
+        "is_available": {
+          "type": "boolean",
+          "description": "True if the fragrance is currently in stock, false if 'Sold Out'."
+        },
+        "current_price": {
+          "type": "number",
+          "description": "The current retail price in USD for a standard 50mL bottle."
+        },
+        "stock_level": {
+          "type": "integer",
+          "description": "The number of units currently in stock. -1 if not determined.",
+          "default": -1
+        },
+        "last_seen_in_stock": {
+          "type": "string",
+          "format": "date-time",
+          "description": "The ISO 8601 timestamp of the last time this item was confirmed to be in stock."
+        },
+        "montagne_url": {
+          "type": "string",
+          "format": "uri",
+          "description": "The direct URL to the product page on the Montagne website."
+        }
+      },
+      "required": ["is_available", "current_price", "last_seen_in_stock", "montagne_url"]
+    },
+    "decant_vendor_status": {
+      "type": "array",
+      "description": "An array of objects detailing availability from each tracked decant vendor.",
+      "items": {
+        "type": "object",
+        "properties": {
+          "vendor_name": {
+            "type": "string",
+            "description": "The name of the decant vendor (e.g., 'Ayybraham', 'BoonePiece', 'ViktorVaughn')."
+          },
+          "availability": {
+            "type": "string",
+            "enum": ["Unavailable", "Restricted", "Unrestricted"],
+            "description": "Describes the availability status from this vendor. 'Unavailable' (OOS), 'Restricted' (2mL only, 1 per order, etc.), 'Unrestricted' (available in multiple sizes)."
+          }
+        },
+        "required": ["vendor_name", "availability"]
+      }
+    },
+    "reddit_market_activity": {
+      "type": "object",
+      "description": "Quantitative metrics of secondary market activity, intended to be updated programmatically via the Reddit API.",
+      "properties": {
+        "wtb_post_count": {
+          "type": "integer",
+          "description": "A raw, incrementing count of 'Want to Buy' (WTB) posts mentioning this fragrance within the tracked subreddit(s).",
+          "default": 0
+        },
+        "wts_post_count": {
+          "type": "integer",
+          "description": "A raw, incrementing count of 'Want to Sell' (WTS) or 'For Sale' posts mentioning this fragrance within the tracked subreddit(s).",
+          "default": 0
+        },
+        "last_data_scrape": {
+          "type": "string",
+          "format": "date-time",
+          "description": "The ISO 8601 timestamp of the last time the Reddit API script was successfully run to update the counts."
+        }
+      },
+      "required": ["wtb_post_count", "wts_post_count", "last_data_scrape"]
+    }
+  },
+  "required": [
+    "fragrance_name",
+    "inspired_by",
+    "montagne_retail_status",
+    "decant_vendor_status",
+    "reddit_market_activity"
+  ]
+}
+
+
+This schema is designed for the sole purpose of updating the decant_vendor_status field in the master montagne_market_index database.
+code
+JSON
+{
+  "type": "object",
+  "description": "A minimized data structure for updating the decant vendor availability for a single Montagne fragrance.",
+  "properties": {
+    "fragrance_name": {
+      "type": "string",
+      "description": "The official Montagne Parfums name for the fragrance. This is the primary key used to match the record in the master database."
+    },
+    "decant_vendor_status": {
+      "type": "array",
+      "description": "An array of objects, one for each vendor that stocks this fragrance, detailing its availability.",
+      "items": {
+        "type": "object",
+        "properties": {
+          "vendor_name": {
+            "type": "string",
+            "description": "The name of the decant vendor ('Ayybraham', 'BoonePiece', 'ViktorVaughn')."
+          },
+          "availability": {
+            "type": "string",
+            "enum": ["Unavailable", "Restricted", "Unrestricted"],
+            "description": "Describes the availability status from this vendor."
+          }
+        },
+        "required": ["vendor_name", "availability"]
+      }
+    }
+  },
+  "required": [
+    "fragrance_name",
+    "decant_vendor_status"
+  ]
+}

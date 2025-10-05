@@ -1,0 +1,532 @@
+{
+  "dossier_version": "2.0",
+  "user_id": "Project USER",
+  "chapter_name": "Chapter 1: The Core Pillars",
+  "accord_database": [
+    {
+      "accord_name": "Vanilla",
+      "user_affinity": "Confirmed Love (Pillar)",
+      "olfactory_profile": "A rich, sweet, creamy, and sometimes woody, boozy, or spicy scent derived from the vanilla bean. It is a cornerstone of the Gourmand and Amber fragrance families.",
+      "user_history_and_analysis": "This is the user's #1 confirmed pillar of taste, described as 'Vanilla Supremacy.' His affinity is broad, deep, and stems from a foundational love for the pleasant, warm aspects of scents. He first identified his love for the vanilla base in 'Tabac Vanille,' which he enjoyed so much it overrode his dislike for the harsh tobacco opening. He has since had positive reactions to vanilla in gourmand ('French Cherry'), spicy ('Spicebomb'), complex ('Triumph of Bacchus'), and aromatic ('Vanille Fraiche') contexts. His primary quest within the warm/sweet genres is often to find the perfect expression of vanilla.",
+      "positive_benchmarks": [
+        "Tabac Vanille (Dry-down)",
+        "French Cherry",
+        "Triumph of Bacchus",
+        "Spicebomb",
+        "Good Fortune (Base)",
+        "Vanille Fraiche",
+        "Tobacco Noir"
+      ],
+      "negative_benchmarks": [],
+      "strategic_recommendation": "PURSUE. Fragrances with a prominent, high-quality vanilla note have the highest probability of success. All styles (spicy, boozy, fruity, floral) are viable targets. This is the safest and most promising category for blind buys and new explorations. Key diagnostics are to determine his preferred style (e.g., 'Vanille Absolute' for ginger-vanilla, 'Bobcat' for suede-vanilla)."
+    },
+    {
+      "accord_name": "Rose",
+      "user_affinity": "Confirmed Love (Pillar)",
+      "olfactory_profile": "A complex floral note with facets ranging from fresh, dewy, and citrusy to deep, jammy, spicy, and dark. A cornerstone of perfumery.",
+      "user_history_and_analysis": "The user has a definitive and growing love for the rose accord. His initial positive data came from smelling 'Les Sables Roses' on a friend, where he enjoyed the blended, spicy-floral character. A test of 'Citrus Rose' confirmed his enjoyment, with the specific critique that he 'wished it was rosier.' His positive first impression of 'Pink Rose Frozen' (a fresh, watery rose) further solidifies this. His successful test of 'Noir Oud' (a dark rose/oud) proves he also enjoys rose in a more challenging, intimate context. His affinity appears broad, but leans towards well-blended, non-soliflore presentations.",
+      "positive_benchmarks": [
+        "Les Sables Roses (On another person)",
+        "Noir Oud",
+        "Pink Rose Frozen (Initial impression)",
+        "Citrus Rose"
+      ],
+      "negative_benchmarks": [],
+      "strategic_recommendation": "PURSUE. Rose is a confirmed 'love' pillar. The strategic goal is now to map his preferred style of rose. Key diagnostics include testing a fresh/fruity rose ('Pink Rose'), an opulent/jammy rose ('Oud Satin Mood'), and a complex/spicy rose ('Lyric Man'). Fragrances with a prominent, well-blended rose note are high-probability 'like' or 'love' candidates."
+    },
+    {
+      "accord_name": "Jasmine (& White Florals)",
+      "user_affinity": "Confirmed Love (Pillar)",
+      "olfactory_profile": "A class of floral notes, typically from white flowers. Jasmine is rich, intoxicating, and can have animalic facets. Neroli/Orange Blossom are cleaner, slightly greener, and soapier. Lily of the Valley is green, watery, and fresh.",
+      "user_history_and_analysis": "The user's affinity for white florals is deep and foundational, stemming from a childhood memory of a jasmine terrace and his independent purchase of a Lily of the Valley oil. This was a major breakthrough. He has since confirmed a 'love' for the complex, professional white florals in 'Image' and a 'like' for the prominent jasmine in 'Good Fortune'. He has a negative reaction to simpler, minimalist white florals ('MYSLF') that he perceives as 'too clean' or 'pedestrian.' He requires complexity and a substantive base.",
+      "positive_benchmarks": [
+        "Jasmine (Childhood memory)",
+        "Lily of the Valley (Foundational scent)",
+        "Image",
+        "Good Fortune",
+        "Gucci Flora Gorgeous Jasmine (On his son)"
+      ],
+      "negative_benchmarks": [
+        "MYSLF"
+      ],
+      "strategic_recommendation": "PURSUE. Clean, complex white florals are a confirmed 'love' pillar. The strategy is to explore different types of white florals in well-blended, high-quality compositions. The key diagnostic is 'Image 45' to test a richer, more opulent version. A test of a Ylang-Ylang dominant fragrance ('Oud Jaune') is the next logical step to broaden this category."
+    },
+    {
+      "accord_name": "Rounded/Juicy Fruits",
+      "user_affinity": "Confirmed Love (Pillar)",
+      "olfactory_profile": "Fruit notes that are perceived as juicy, fleshy, sweet, and naturalistic, as opposed to sharp, acidic, or 'cleaner-like' citrus.",
+      "user_history_and_analysis": "This pillar was discovered through a process of elimination. The user downgraded 'Elysian Fraiche' due to its 'sharp, acidic grapefruit,' while simultaneously praising the 'rounded, blunt and soft' grapefruit of the original 'Tygr' and the smooth fruitiness of 'God of Fiery.' His definitive 'love' for the juicy cherry in 'French Cherry' solidified this preference. His taste is not for all fruits, but specifically for those that feel well-blended, rich, and avoid a harsh, synthetic sharpness.",
+      "positive_benchmarks": [
+        "Tygr (Discontinued Original)",
+        "French Cherry",
+        "God of Fiery",
+        "Triumph of Bacchus (Peach note)",
+        "Pink Rose Frozen (Pear/Litchi notes)"
+      ],
+      "negative_benchmarks": [
+        "Elysian Fraiche (Grapefruit note)"
+      ],
+      "strategic_recommendation": "PURSUE. Fragrances with a prominent, well-blended, rounded fruit note are high-probability successes. The key is to avoid anything described as overly 'sharp,' 'acidic,' or 'zesty.' Key diagnostics include 'Palisade' (mango/grapefruit) and 'Mango Skyn' (mango/ylang-ylang) to further define the boundaries of this preference."
+    },
+    {
+      "accord_name": "Ambroxan",
+      "user_affinity": "Confirmed Love (Pillar)",
+      "olfactory_profile": "A synthetic molecule that mimics one facet of ambergris. It has a radiant, mineralic, slightly sweet, salty, and incredibly tenacious character. It is the engine of many modern 'blue' and fresh fragrances.",
+      "user_history_and_analysis": "The user's love for this molecule was a major early breakthrough, first identified in his 'fcuking fantastic' reaction to 'Bleu Talisman.' He has since confirmed his enjoyment of the 'holographic' ambroxan in 'Tygr Cologne' and the radiant ambroxan base of 'Gentle Silver.' This is not a general love for 'amber' or 'musk,' but a specific love for this modern, powerful, and radiant molecule. It is a key component in several of his 'Signature' loves.",
+      "positive_benchmarks": [
+        "Bleu Talisman",
+        "Tygr Cologne",
+        "Gentle Silver",
+        "French Cherry (in base)"
+      ],
+      "negative_benchmarks": [
+        "MYSLF (The Ambrofix base was not enough to make it interesting)"
+      ],
+      "strategic_recommendation": "PURSUE. Fragrances with a prominent, high-quality ambroxan base have a very high probability of success, especially when paired with a fruit or aromatic top. The key diagnostic is 'Another 14,' which will test his reaction to this molecule in a minimalist, near-solitary context."
+    }
+  ]
+}
+{
+  "dossier_version": "2.0",
+  "user_id": "Project USER",
+  "chapter_name": "Chapter 2: The Foundational Woods & Spices",
+  "accord_database": [
+    {
+      "accord_name": "Sandalwood",
+      "user_affinity": "Positive",
+      "olfactory_profile": "A creamy, milky, soft, and rich wood note. Can range from dry and papery (Australian) to buttery and almost gourmand (Mysore).",
+      "user_history_and_analysis": "The user has a foundational positive memory of Mysore sandalwood oil from his grandparents in Southeast Asia. This suggests an innate preference for the rich, creamy style of sandalwood. His test of 'Rich Santal' (creamy, coconut sandalwood) is pending but has a high probability of success. His test of 'Eau Santal' (dry, leathery sandalwood) is a key diagnostic to determine if his love extends to the drier, more popular modern style.",
+      "positive_benchmarks": [
+        "Mysore Sandalwood (Foundational memory)",
+        "Gucci Gorgeous Jasmine (in base)"
+      ],
+      "negative_benchmarks": [],
+      "strategic_recommendation": "EXPLORE. Sandalwood is a high-potential category. The primary goal is to test the two main archetypes. 'Rich Santal' (creamy) and 'Eau Santal' (dry) are the two most important pending diagnostics to map this accord fully. Positive results would open up a vast number of woody and oriental fragrances."
+    },
+    {
+      "accord_name": "Vetiver",
+      "user_affinity": "Mixed / Context-Dependent",
+      "olfactory_profile": "An earthy, grassy, and clean wood note derived from a grass root. Can range from bright and citrusy (Haitian) to dark, smoky, and inky (Javanese).",
+      "user_history_and_analysis": "The user's relationship with vetiver is complex and has been a source of major recalibration. An initial hypothesis of a 'love' based on a misattribution in 'Elysian Fraiche' was proven false. The test of 'Meteorite' (a clean, vetiver-dominant scent) was a definitive 'meh,' proving he does not enjoy vetiver as the primary star. However, he enjoys it as a structural component in complex blends ('Triumph of Bacchus,' 'Spicebomb'). His preference is for a well-blended, non-dominant vetiver.",
+      "positive_benchmarks": [
+        "Triumph of Bacchus (in base)",
+        "Spicebomb (in base)"
+      ],
+      "negative_benchmarks": [
+        "Meteorite"
+      ],
+      "strategic_recommendation": "PROCEED WITH CAUTION. Avoid fragrances marketed as 'Vetiver' soliflores or where vetiver is the dominant, central theme. The key diagnostic is 'Azonto' (Bal d'Afrique), which will test his reaction to a 'warm, creamy' vetiver, a completely different style that may prove successful.",
+      "user_quotes": [
+        "Meteorite was so unmemorable I literally don't remember what it smells like."
+      ]
+    },
+    {
+      "accord_name": "Patchouli",
+      "user_affinity": "Positive (Hypothesis)",
+      "olfactory_profile": "An earthy, dark, and woody note from a leaf. Can range from a 'dirty hippie,' musty, damp soil scent to a modern, clean, almost chocolatey or minty scent.",
+      "user_history_and_analysis": "The user has a foundational positive association with a 'clean patchouli' from his lifelong use of Neutrogena's 'Rainbath'. This is a major positive indicator. His test of `Ambre Musc` (clean patchouli) is pending but is expected to be a success. His enjoyment of the complex base of `Rose Prick` further supports this. The primary goal is to confirm this affinity and establish the boundaries of his tolerance.",
+      "positive_benchmarks": [
+        "Neutrogena - Rainbath (Foundational scent)",
+        "Rose Prick (in base)"
+      ],
+      "negative_benchmarks": [],
+      "strategic_recommendation": "EXPLORE. This is a high-potential category. The pending test of 'Ambre Musc' is the most critical diagnostic. A positive result will confirm patchouli as a key 'like' or 'love' and will validate further exploration of modern Fougère and Chypre fragrances like 'Carlisle'."
+    },
+    {
+      "accord_name": "Warm/Hot Spices (Cinnamon, Nutmeg, Clove)",
+      "user_affinity": "Confirmed Positive",
+      "olfactory_profile": "Spices that evoke a feeling of warmth, often associated with baking or winter. Cinnamon is sweet and fiery; Nutmeg is warmer and more aromatic; Clove is sharp and medicinal.",
+      "user_history_and_analysis": "This was a major breakthrough. The user had a negative intellectual hypothesis about cinnamon, but his positive foundational memory of 'Old Spice' and his definitive 'love' for the dry-down of 'Spicebomb' proved this wrong. He has a confirmed affinity for warm spices when they are well-blended into a rich, ambery, or tobacco base. He does not enjoy them in isolation or in overly simplistic compositions.",
+      "positive_benchmarks": [
+        "Spicebomb",
+        "Triumph of Bacchus",
+        "Old Spice (Foundational memory)",
+        "Tobacco Noir"
+      ],
+      "negative_benchmarks": [],
+      "strategic_recommendation": "PURSUE. This is a confirmed positive category. The next logical step is to test these spices in a more gourmand context. The key diagnostic is 'Wajan' (PDM Oajan), which will test a honey-cinnamon accord. 'Ciel Elixir' also serves as a test for his upper limit of 'hot spice' intensity.",
+      "user_quotes": []
+    },
+    {
+      "accord_name": "Fresh Spices (Pink Pepper, Ginger, Cardamom)",
+      "user_affinity": "Mixed / Context-Dependent",
+      "olfactory_profile": "Spices that add a bright, zesty, or cool lift to a fragrance, often used in top or middle notes.",
+      "user_history_and_analysis": "The user's reaction to fresh spices is highly dependent on the specific note and its role in the composition. He has a confirmed positive reaction to the zesty, spicy-fruit opening of 'Spicebomb' (Pink Pepper). However, he had a definitive negative reaction to the prominent, linear 'Ginger' in 'Immensity,' which he felt muddled the fragrance's contrast. Cardamom is a strong positive hypothesis based on his love for the smell of the raw material, but it is largely untested in a dominant role. The key is balance and architectural role.",
+      "positive_benchmarks": [
+        "Spicebomb (Pink Pepper)",
+        "Cardamom (Hypothesis)"
+      ],
+      "negative_benchmarks": [
+        "Immensity (Ginger)"
+      ],
+      "strategic_recommendation": "PROCEED WITH CAUTION. The user is not a 'fresh spicy' person in general. Fragrances where these notes are the primary star are high-risk. However, they are a 'go' when used as supporting players. The key pending diagnostic is 'La Nuit 2011,' which is the benchmark test for a prominent, yet well-blended, cardamom note."
+    }
+  ]
+}
+{
+  "dossier_version": "2.0",
+  "user_id": "Project USER",
+  "chapter_name": "Chapter 3: The Modern & Aromatic Accords",
+  "accord_database": [
+    {
+      "accord_name": "Musk (Clean, Fruity, Powdery)",
+      "user_affinity": "Confirmed Positive",
+      "olfactory_profile": "A broad family of synthetic molecules that create effects ranging from clean 'laundry' and warm 'skin' to hazy, soft powder or enhancing fruit notes.",
+      "user_history_and_analysis": "This is a key pillar of the user's 'Harmonious-Fusion' preference. He has a definitive love for modern, clean musks, particularly in specific contexts. He loves 'Fruity Musk' ('God of Fiery,' 'French Cherry') and 'Powdery Musk' ('City of Stars'). His positive reaction to 'Image' confirms he also enjoys a sophisticated, blended 'White Musk.' His aversion is to minimalist, overly simple clean musks ('MYSLF') or classic, dense, tonka-based powders ('Rue Lafayette').",
+      "positive_benchmarks": [
+        "God of Fiery",
+        "French Cherry",
+        "City of Stars",
+        "Image"
+      ],
+      "negative_benchmarks": [
+        "Rue Lafayette",
+        "MYSLF"
+      ],
+      "strategic_recommendation": "PURSUE. Modern, well-blended musks are a strong positive indicator. The strategy is to continue testing musks in different contexts. The key pending diagnostic is 'Another 14,' which will test his reaction to a near-pure 'molecular musk' blend."
+    },
+    {
+      "accord_name": "Leather & Suede",
+      "user_affinity": "Confirmed Positive (Evolving)",
+      "olfactory_profile": "Notes that replicate the scent of animal hides. Can range from soft, creamy, and musky 'suede' to rugged, smoky, and animalic 'Russian leather.'",
+      "user_history_and_analysis": "This was a major breakthrough. An initial 'meh' reaction to 'Novillo Leather' ('manly in a way I cannot appreciate') evolved into a definitive 'like' or 'love' with repeated wearings and layering. He now appreciates the 'creamy suede' and has been inspired by it. His positive reaction to the blended leather in 'Spicebomb' further confirms this. His affinity is for clean, smooth, non-rugged leathers.",
+      "positive_benchmarks": [
+        "Novillo Leather",
+        "Spicebomb (in base)"
+      ],
+      "negative_benchmarks": [],
+      "strategic_recommendation": "EXPLORE. This is a newly opened and high-potential category. The next logical step is to test suede in a different context. The key diagnostic is 'Bobcat' (YSL - Babycat), which will test a suede-and-vanilla combination, a very high-probability 'love' candidate.",
+      "user_quotes": [
+        "The creamy suede is growing on me. Makes me want to buy the most supple leather jacket I can find."
+      ]
+    },
+    {
+      "accord_name": "Aromatics (Juniper & Lavender)",
+      "user_affinity": "Mixed / Highly Specific",
+      "olfactory_profile": "Notes from herbs and botanicals that create a fresh, often 'barbershop' or 'gin-like' feeling. Juniper is piney and cool; Lavender is floral, clean, and herbal.",
+      "user_history_and_analysis": "The user's relationship with this genre is an 'exception, not the rule.' He has a definitive 'love' for the specific, complex, ambroxan-lifted juniper in 'Gentle Silver,' but a stated general dislike for 'aromatic gins.' He disliked the mint-aromatic 'L'epice de Mer'. Lavender is his single biggest remaining high-risk variable, stemming from his 'powdery' aversion. This accord is a 'go' only in masterful, modern, non-traditional blends.",
+      "positive_benchmarks": [
+        "Gentle Silver (Juniper)"
+      ],
+      "negative_benchmarks": [
+        "L’epice de Mer (Peppermint-aromatic)",
+        "Lavender (Strong Negative Hypothesis)"
+      ],
+      "strategic_recommendation": "PROCEED WITH EXTREME CAUTION. Avoid classic, simple aromatic Fougères. The key pending diagnostic for this entire category is the test of a high-quality, prominent lavender in 'Sicilian Tobacco'. A negative result will likely close this category for good. A positive result would require a significant re-evaluation.",
+      "user_quotes": [
+        "I really don’t see myself liking aromatic gins in general, there is something special and more complex in MFK GFS."
+      ]
+    },
+    {
+      "accord_name": "Aquatic & Marine Accords",
+      "user_affinity": "Mixed / Highly Specific",
+      "olfactory_profile": "'Aquatic' refers to a feeling of freshwater (often using Calone - melon/oyster). 'Marine' refers to saltwater (often using ambergris/ambroxan - salty/mineralic).",
+      "user_history_and_analysis": "The user's preference is definitively for the 90s-style 'Aquatic' over the modern 'Marine.' He has foundational positive memories of 'L'Eau d'Issey' and 'Cool Water,' both of which create an abstract, watery freshness. He had a definitive negative reaction to the literal, salty, ambergris-based 'Marine' accord in 'Marine Zest,' finding it 'boring' and a 'non-fragrance.' He enjoys 'aquatic facets' when blended into florals, as in 'Pink Rose Frozen.'",
+      "positive_benchmarks": [
+        "L'Eau d'Issey Pour Homme",
+        "Cool Water",
+        "Pink Rose Frozen"
+      ],
+      "negative_benchmarks": [
+        "Marine Zest"
+      ],
+      "strategic_recommendation": "AVOID MARINE, EXPLORE AQUATIC. De-prioritize any fragrance described as 'marine,' 'salty,' or 'oceanic.' Focus on fragrances described as 'aquatic' or 'watery,' particularly those that blend the accord with florals or woods. The pending test of `Pacific Moss` will be the final word on the modern marine genre.",
+      "user_quotes": [
+        "Marine zest was boring, I feel like marine accord is like a non-fragrance."
+      ]
+    },
+    {
+      "accord_name": "Powdery Accords (Tonka vs. Musk)",
+      "user_affinity": "Mixed / Highly Specific",
+      "olfactory_profile": "A textural effect in fragrance that can feel like talcum powder, makeup, or a soft, hazy dustiness. Can be derived from Tonka Bean (warm, sweet) or modern Musks (cool, transparent).",
+      "user_history_and_analysis": "This was a major breakthrough. The user's definitive 'No' to 'Rue Lafayette' was caused by its warm, dense, sweet, tonka-based powder, which triggered a negative 'talcum powder' memory. Conversely, his 'love' for the dry-down of 'City of Stars' confirmed his affinity for a modern, cool, transparent, musk-based powder. The distinction is critical.",
+      "positive_benchmarks": [
+        "City of Stars (Musk-based powder)"
+      ],
+      "negative_benchmarks": [
+        "Rue Lafayette (Tonka-based powder)"
+      ],
+      "strategic_recommendation": "PURSUE MUSK, AVOID TONKA. Actively seek out and test fragrances with modern, musky powder accords. Approach any fragrance with a prominent, classic 'Tonka Bean' note with extreme caution, as it is a high-risk trigger for his 'talcum powder' aversion. The key pending diagnostic is the heliotrope (powdery almond) note in `Feu Rouge`."
+    }
+  ]
+}
+{
+  "dossier_version": "2.0",
+  "user_id": "Project USER",
+  "chapter_name": "Chapter 4: The Challenging & High-Risk Accords",
+  "accord_database": [
+    {
+      "accord_name": "Oud (Clean vs. Dark)",
+      "user_affinity": "Mixed / Specific (Non-Dominant)",
+      "olfactory_profile": "A complex resinous wood note. Can range from 'clean' (smooth, woody), to 'dark' (leathery, spicy), to 'challenging' (medicinal, barnyard, fecal).",
+      "user_history_and_analysis": "A major area of recalibration. The user is definitively 'not an oud person' in that he does not enjoy oud as a prominent, identifiable star note. His 'Noir Oud' test was a breakthrough, revealing he can 'love' a dark oud in an intimate 'Library' context when it is masterfully blended with rose and saffron. His enjoyment of 'Oud Verde' and 'Orange Oud' confirms he likes clean, FDB-style oud when it is used as a 'richness-enhancing,' non-identifiable supporting player. The aversion is to the 'note' of oud, not its 'effect' when blended.",
+      "positive_benchmarks": [
+        "Noir Oud ('Library' Love)",
+        "Oud Verde ('Like')",
+        "Orange Oud (as a supporting note)"
+      ],
+      "negative_benchmarks": [
+        "Noir Oud (perceived as 'grandpa,' not for public wear)"
+      ],
+      "strategic_recommendation": "PROCEED WITH EXTREME CAUTION. Avoid any fragrance marketed as 'oud-dominant.' The user's successful path is through fragrances where oud is a supporting note in a larger floral or amber accord. The key pending diagnostics are 'Oud Jaune' (oud + ylang-ylang) and 'Oud Satin Mood' (oud + rose + vanilla), both of which fit this successful model.",
+      "user_quotes": [
+        "I smell the distinct oud, and it doesn't fire up my brain circuits in the 'I want that!' kind of way."
+      ]
+    },
+    {
+      "accord_name": "Smoke & Birch Tar",
+      "user_affinity": "Negative (with one outlier)",
+      "olfactory_profile": "Notes that replicate combustion. Can be atmospheric ('burning logs,' 'hazy room') or material-based ('birch tar,' 'cade oil').",
+      "user_history_and_analysis": "A complex but clarifying aversion. The user has a definitive dislike for 'real-time smoke' that mimics active burning, confirmed by negative reactions to 'By the Fireplace' and 'Jazz Club.' His dislike for the raw, dry tobacco in 'Tabac Vanille' is part of a related aversion to harsh, phenolic notes. The single outlier is his 'not offensive' reaction to the abstract, dry, phenolic birch tar in 'Imaginary Intense.' This proves his aversion is not total, but is very strong against realistic or atmospheric smoke.",
+      "positive_benchmarks": [
+        "Imaginary Intense (Tolerated, not loved)"
+      ],
+      "negative_benchmarks": [
+        "By the Fireplace",
+        "Jazz Club",
+        "Tabac Vanille (opening)"
+      ],
+      "strategic_recommendation": "AVOID. The overwhelming weight of the data is negative. Fragrances with a prominent 'smoke' note of any kind are a 'hard pass.' The only exception would be a future, low-cost diagnostic of a 'blended smoke' Aventus clone ('Pineapple Royale') to definitively close the loop on the birch tar question.",
+      "user_quotes": [
+        "All were too smoky, not the smoky I like."
+      ]
+    },
+    {
+      "accord_name": "Incense & Resins (Labdanum)",
+      "user_affinity": "Neutral / Tolerant",
+      "olfactory_profile": "Notes derived from tree resins. Incense (Frankincense) is often smoky, citrusy, and spiritual. Labdanum is a core 'amber' note: warm, leathery, and slightly animalic.",
+      "user_history_and_analysis": "The user's reaction to this category is one of analytical tolerance rather than enjoyment. His test of 'Intermission' (a massive incense/oregano fragrance) was a definitive 'No,' but 'not offensive.' He has had positive experiences with fragrances containing a well-blended Labdanum note in the base ('Spicebomb,' 'Triumph of Bacchus'), confirming he enjoys its ambery warmth as a supporting player. He does not enjoy incense as a primary, starring note.",
+      "positive_benchmarks": [
+        "Spicebomb (Labdanum in base)",
+        "Triumph of Bacchus (Labdanum in base)"
+      ],
+      "negative_benchmarks": [
+        "Intermission (Dominant Incense)"
+      ],
+      "strategic_recommendation": "PROCEED WITH CAUTION. Avoid fragrances marketed as 'incense-dominant.' Resinous notes like Labdanum are a 'go' when used to create a warm, ambery base, but are a 'no' when they are the primary theme. No further diagnostics are needed at this stage."
+    },
+    {
+      "accord_name": "'Medicinal' & Phenolic Accords",
+      "user_affinity": "Definitive Negative (Highly Specific)",
+      "olfactory_profile": "Sharp, sterile, antiseptic, or tar-like notes. Often derived from specific synthetic woods, birch tar, or raw tobacco accords.",
+      "user_history_and_analysis": "This is the user's single strongest and most important negative trigger. It was definitively identified in his 'offensive' reaction to the base of 'Apple Cognac' (associated with 'Burnol' antiseptic). He has since learned to distinguish this specific sharp, synthetic medicinal note from the 'acceptable' medicinal quality of other notes like licorice ('Ciel Elixir'). This is a hyper-specific aversion, not a general one.",
+      "positive_benchmarks": [
+        "Ciel Elixir (Licorice-medicinal was 'not bad')"
+      ],
+      "negative_benchmarks": [
+        "Apple Cognac"
+      ],
+      "strategic_recommendation": "AVOID. This is a critical red flag. Any fragrance from a perfumer (Sidonie Lancesseur) or a house (certain PDM freshies) known for using this specific sharp accord is a 'hard pass.' This is the most important boundary for his profile.",
+      "user_quotes": [
+        "The medicinal note is still prominent and offensive."
+      ]
+    },
+    {
+      "accord_name": "Animalics (Hypothesized/Untested)",
+      "user_affinity": "Unknown (High Risk)",
+      "olfactory_profile": "Notes that mimic animal-derived scents (civet, castoreum, musks) or have fecal, barnyard, or urinous facets (some ouds).",
+      "user_history_and_analysis": "This is the user's final frontier and a major blind spot. While he has joked about enjoying his own skin scent, he has not tested a fragrance with a prominent, intentional animalic note. His definitive 'No' to the 'grandpa' vibe of 'Noir Oud' and the 'manly' character of 'Novillo Leather' suggests a low tolerance for anything perceived as overly classic, rugged, or 'dirty.'",
+      "positive_benchmarks": [
+        "User's own skin scent (a joke, but indicates a potential openness to musks)"
+      ],
+      "negative_benchmarks": [],
+      "strategic_recommendation": "AVOID FOR NOW. This is the highest-risk category. It is strategically unsound to test this genre until all other, safer categories have been thoroughly mapped. The key pending diagnostic is the subtle animalic facet of the ambergris/patchouli in 'Ambre Musc,' which will serve as the safest possible entry point.",
+      "user_quotes": [
+        "I think animalics are off the bedside table for me for now."
+      ]
+    },
+    {
+      "accord_name": "Complex/'Kitchen Sink' Blends",
+      "user_affinity": "Positive ('Grower')",
+      "olfactory_profile": "Fragrances with a very long and complex note list, where multiple accords compete for attention.",
+      "user_history_and_analysis": "This was a major recalibration. The user's initial negative 'kitchen sink' reaction to 'Triumph of Bacchus' evolved into a deep appreciation with repeated wearings. This proved that 'complexity' is not a negative indicator, but a sign that the fragrance is a 'grower' that requires time. He is not a fan of love-at-first-sniff complexity, but can come to love it.",
+      "positive_benchmarks": [
+        "Triumph of Bacchus"
+      ],
+      "negative_benchmarks": [
+        "Triumph of Bacchus (Initial reaction)"
+      ],
+      "strategic_recommendation": "APPROACH WITH PATIENCE. Do not blind buy full bottles of fragrances known for this style. A decant is essential. The user must understand that his first impression will likely be neutral or negative, and a final verdict requires multiple, dedicated wearings. The key pending diagnostic for this is 'Carlisle'."
+    }
+  ]
+}
+{
+  "dossier_version": "2.0",
+  "user_id": "Project USER",
+  "chapter_name": "Chapter 4: The Challenging & High-Risk Accords",
+  "accord_database": [
+    {
+      "accord_name": "Oud (Clean vs. Dark)",
+      "user_affinity": "Mixed / Specific (Non-Dominant)",
+      "olfactory_profile": "A complex resinous wood note. Can range from 'clean' (smooth, woody), to 'dark' (leathery, spicy), to 'challenging' (medicinal, barnyard, fecal).",
+      "user_history_and_analysis": "A major area of recalibration. The user is definitively 'not an oud person' in that he does not enjoy oud as a prominent, identifiable star note. His 'Noir Oud' test was a breakthrough, revealing he can 'love' a dark oud in an intimate 'Library' context when it is masterfully blended with rose and saffron. His enjoyment of 'Oud Verde' and 'Orange Oud' confirms he likes clean, FDB-style oud when it is used as a 'richness-enhancing,' non-identifiable supporting player. The aversion is to the 'note' of oud, not its 'effect' when blended.",
+      "positive_benchmarks": [
+        "Noir Oud ('Library' Love)",
+        "Oud Verde ('Like')",
+        "Orange Oud (as a supporting note)"
+      ],
+      "negative_benchmarks": [
+        "Noir Oud (perceived as 'grandpa,' not for public wear)"
+      ],
+      "strategic_recommendation": "PROCEED WITH EXTREME CAUTION. Avoid any fragrance marketed as 'oud-dominant.' The user's successful path is through fragrances where oud is a supporting note in a larger floral or amber accord. The key pending diagnostics are 'Oud Jaune' (oud + ylang-ylang) and 'Oud Satin Mood' (oud + rose + vanilla), both of which fit this successful model.",
+      "user_quotes": [
+        "I smell the distinct oud, and it doesn't fire up my brain circuits in the 'I want that!' kind of way."
+      ]
+    },
+    {
+      "accord_name": "Smoke & Birch Tar",
+      "user_affinity": "Negative (with one outlier)",
+      "olfactory_profile": "Notes that replicate combustion. Can be atmospheric ('burning logs,' 'hazy room') or material-based ('birch tar,' 'cade oil').",
+      "user_history_and_analysis": "A complex but clarifying aversion. The user has a definitive dislike for 'real-time smoke' that mimics active burning, confirmed by negative reactions to 'By the Fireplace' and 'Jazz Club.' His dislike for the raw, dry tobacco in 'Tabac Vanille' is part of a related aversion to harsh, phenolic notes. The single outlier is his 'not offensive' reaction to the abstract, dry, phenolic birch tar in 'Imaginary Intense.' This proves his aversion is not total, but is very strong against realistic or atmospheric smoke.",
+      "positive_benchmarks": [
+        "Imaginary Intense (Tolerated, not loved)"
+      ],
+      "negative_benchmarks": [
+        "By the Fireplace",
+        "Jazz Club",
+        "Tabac Vanille (opening)"
+      ],
+      "strategic_recommendation": "AVOID. The overwhelming weight of the data is negative. Fragrances with a prominent 'smoke' note of any kind are a 'hard pass.' The only exception would be a future, low-cost diagnostic of a 'blended smoke' Aventus clone ('Pineapple Royale') to definitively close the loop on the birch tar question.",
+      "user_quotes": [
+        "All were too smoky, not the smoky I like."
+      ]
+    },
+    {
+      "accord_name": "Incense & Resins (Labdanum)",
+      "user_affinity": "Neutral / Tolerant",
+      "olfactory_profile": "Notes derived from tree resins. Incense (Frankincense) is often smoky, citrusy, and spiritual. Labdanum is a core 'amber' note: warm, leathery, and slightly animalic.",
+      "user_history_and_analysis": "The user's reaction to this category is one of analytical tolerance rather than enjoyment. His test of 'Intermission' (a massive incense/oregano fragrance) was a definitive 'No,' but 'not offensive.' He has had positive experiences with fragrances containing a well-blended Labdanum note in the base ('Spicebomb,' 'Triumph of Bacchus'), confirming he enjoys its ambery warmth as a supporting player. He does not enjoy incense as a primary, starring note.",
+      "positive_benchmarks": [
+        "Spicebomb (Labdanum in base)",
+        "Triumph of Bacchus (Labdanum in base)"
+      ],
+      "negative_benchmarks": [
+        "Intermission (Dominant Incense)"
+      ],
+      "strategic_recommendation": "PROCEED WITH CAUTION. Avoid fragrances marketed as 'incense-dominant.' Resinous notes like Labdanum are a 'go' when used to create a warm, ambery base, but are a 'no' when they are the primary theme. No further diagnostics are needed at this stage."
+    },
+    {
+      "accord_name": "'Medicinal' & Phenolic Accords",
+      "user_affinity": "Definitive Negative (Highly Specific)",
+      "olfactory_profile": "Sharp, sterile, antiseptic, or tar-like notes. Often derived from specific synthetic woods, birch tar, or raw tobacco accords.",
+      "user_history_and_analysis": "This is the user's single strongest and most important negative trigger. It was definitively identified in his 'offensive' reaction to the base of 'Apple Cognac' (associated with 'Burnol' antiseptic). He has since learned to distinguish this specific sharp, synthetic medicinal note from the 'acceptable' medicinal quality of other notes like licorice ('Ciel Elixir'). This is a hyper-specific aversion, not a general one.",
+      "positive_benchmarks": [
+        "Ciel Elixir (Licorice-medicinal was 'not bad')"
+      ],
+      "negative_benchmarks": [
+        "Apple Cognac"
+      ],
+      "strategic_recommendation": "AVOID. This is a critical red flag. Any fragrance from a perfumer (Sidonie Lancesseur) or a house (certain PDM freshies) known for using this specific sharp accord is a 'hard pass.' This is the most important boundary for his profile.",
+      "user_quotes": [
+        "The medicinal note is still prominent and offensive."
+      ]
+    },
+    {
+      "accord_name": "Animalics (Hypothesized/Untested)",
+      "user_affinity": "Unknown (High Risk)",
+      "olfactory_profile": "Notes that mimic animal-derived scents (civet, castoreum, musks) or have fecal, barnyard, or urinous facets (some ouds).",
+      "user_history_and_analysis": "This is the user's final frontier and a major blind spot. While he has joked about enjoying his own skin scent, he has not tested a fragrance with a prominent, intentional animalic note. His definitive 'No' to the 'grandpa' vibe of 'Noir Oud' and the 'manly' character of 'Novillo Leather' suggests a low tolerance for anything perceived as overly classic, rugged, or 'dirty.'",
+      "positive_benchmarks": [
+        "User's own skin scent (a joke, but indicates a potential openness to musks)"
+      ],
+      "negative_benchmarks": [],
+      "strategic_recommendation": "AVOID FOR NOW. This is the highest-risk category. It is strategically unsound to test this genre until all other, safer categories have been thoroughly mapped. The key pending diagnostic is the subtle animalic facet of the ambergris/patchouli in 'Ambre Musc,' which will serve as the safest possible entry point.",
+      "user_quotes": [
+        "I think animalics are off the bedside table for me for now."
+      ]
+    },
+    {
+      "accord_name": "Complex/'Kitchen Sink' Blends",
+      "user_affinity": "Positive ('Grower')",
+      "olfactory_profile": "Fragrances with a very long and complex note list, where multiple accords compete for attention.",
+      "user_history_and_analysis": "This was a major recalibration. The user's initial negative 'kitchen sink' reaction to 'Triumph of Bacchus' evolved into a deep appreciation with repeated wearings. This proved that 'complexity' is not a negative indicator, but a sign that the fragrance is a 'grower' that requires time. He is not a fan of love-at-first-sniff complexity, but can come to love it.",
+      "positive_benchmarks": [
+        "Triumph of Bacchus"
+      ],
+      "negative_benchmarks": [
+        "Triumph of Bacchus (Initial reaction)"
+      ],
+      "strategic_recommendation": "APPROACH WITH PATIENCE. Do not blind buy full bottles of fragrances known for this style. A decant is essential. The user must understand that his first impression will likely be neutral or negative, and a final verdict requires multiple, dedicated wearings. The key pending diagnostic for this is 'Carlisle'."
+    }
+  ]
+}
+{
+  "dossier_version": "2.0",
+  "user_id": "Project USER",
+  "chapter_name": "Chapter 5: The Niche & Gourmand Frontiers",
+  "accord_database": [
+    {
+      "accord_name": "Boozy Accords (Rum, Cognac, Whiskey)",
+      "user_affinity": "Confirmed Positive (Highly Specific)",
+      "olfactory_profile": "Notes that replicate the scent of alcoholic beverages, ranging from sweet rum and rich cognac to the peaty, woody scent of whiskey.",
+      "user_history_and_analysis": "This is a confirmed 'like' pillar with 'love' potential. The user's journey here is a perfect example of his nuanced palate. He has a definitive 'love' for the 'art' of the apple/brandy in 'Apple Cognac' (despite the flawed base). He has a confirmed 'like' that is 'growing on him' for the rich, spicy rum in 'Triumph of Bacchus.' His negative intellectual hypothesis about whiskey (disliking it neat but enjoying it in blends) is a key guide for future tests. He prefers his boozy notes rich, warm, and well-blended.",
+      "positive_benchmarks": [
+        "Triumph of Bacchus (Rum)",
+        "Apple Cognac (Brandy/Cognac accord)",
+        "Spicebomb (Implied boozy warmth)"
+      ],
+      "negative_benchmarks": [
+        "Whiskey (Negative Hypothesis for 'neat' whiskey scents)"
+      ],
+      "strategic_recommendation": "PURSUE. This is a high-potential 'Library' and 'Signature' category. The key pending diagnostic is his inbound full bottle of 'Cognac d'Ange' (Kilian's Angels' Share), which is the benchmark for a cinnamon-cognac. The next logical step after that is to test a whiskey note in a blended, safe context like Givenchy's 'Gentleman Réserve Privée'."
+    },
+    {
+      "accord_name": "Gourmand (Lactonic/Nutty - Coconut/Almond)",
+      "user_affinity": "Positive (Proven Fusion)",
+      "olfactory_profile": "Edible notes that are creamy, milky ('lactonic'), or nutty. Coconut can be fresh or creamy; Almond can be sweet (marzipan) or bitter (cyanide-like).",
+      "user_history_and_analysis": "This category was opened by the breakthrough test of 'French Cherry,' where the user loved the 'skin-fusing' quality of the almond note. His love is not for all gourmands, but for those that achieve a 'harmonious fusion.' The bitter almond note in 'Parfum de Cerise' is a key pending test to see if he dislikes that specific facet. Coconut is a high-potential but untested note within this category.",
+      "positive_benchmarks": [
+        "French Cherry (Almond)",
+        "Novillo Leather (Implied creamy texture)"
+      ],
+      "negative_benchmarks": [
+        "Almond (Negative Hypothesis for bitter/medicinal almond)"
+      ],
+      "strategic_recommendation": "EXPLORE. This is a high-potential 'love' category. The key pending diagnostics are 'Parfum de Cerise' (to test a darker, bitter almond) and 'Rich Santal' (to test the creamy coconut accord). A positive result on 'Rich Santal' would also open up 'Buko Intense' as a viable target.",
+      "user_quotes": [
+        "The creamy suede is growing on me."
+      ]
+    },
+    {
+      "accord_name": "Gourmand (Cacao & Coffee)",
+      "user_affinity": "Untested (Negative Hypothesis)",
+      "olfactory_profile": "Edible notes that are roasted, dark, and bitter. Cacao can be dusty and dry or rich like dark chocolate. Coffee can be a fresh-brewed roast or a sweet coffee liqueur.",
+      "user_history_and_analysis": "The user has a strong negative intellectual hypothesis about this category. He stated, 'I like coffee, chocolate... in my mouth but I can't imagine myself wanting to smell like that.' This is a powerful, reasoned prediction that must be respected. While his palate has evolved, this remains a very high-risk category.",
+      "positive_benchmarks": [],
+      "negative_benchmarks": [
+        "Strong Negative Hypothesis"
+      ],
+      "strategic_recommendation": "AVOID FOR NOW. This is a very low-priority diagnostic. It is strategically unsound to test a category with a strong negative hypothesis when so many high-potential positive categories remain to be explored. The key pending diagnostic is the cacao note in the 'Dream Catcher' sample/decant, which will be a low-cost, high-value test to confirm or deny this hypothesis.",
+      "user_quotes": []
+    },
+    {
+      "accord_name": "Abstract/Mineralic Accords",
+      "user_affinity": "Definitive Negative",
+      "olfactory_profile": "Modern, synthetic-leaning notes designed to evoke abstract concepts like wet stones, cold metal, or clean air, rather than a specific natural material.",
+      "user_history_and_analysis": "The user's test of 'Galilean' (Ganymede) was a definitive and successful diagnostic failure. His reaction—'cold (like a morgue table) and mineralic' and 'not impressed'—provided a clear and unambiguous boundary for his taste. He does not enjoy fragrances that are emotionally distant, cold, and built on a purely abstract, synthetic skeleton. He requires a degree of warmth, naturalness, or familiar complexity.",
+      "positive_benchmarks": [],
+      "negative_benchmarks": [
+        "Galilean"
+      ],
+      "strategic_recommendation": "HARD PASS. This entire genre is now de-prioritized. Avoid fragrances described as 'mineralic,' 'cold,' 'avant-garde,' or overly abstract. This was a successful boundary test.",
+      "user_quotes": [
+        "Galilean was cold (like a morgue table) and mineralic."
+      ]
+    },
+    {
+      "accord_name": "Green & Herbal Accords (Tea, Fig, Oregano, etc.)",
+      "user_affinity": "Mixed / Highly Context-Dependent",
+      "olfactory_profile": "Notes derived from leaves, stems, and non-floral botanicals. Can range from fresh and leafy to dry, bitter, and savory.",
+      "user_history_and_analysis": "The user's relationship with this category is highly nuanced. He has a foundational love for 'clean green' from Wella Balsam. He is currently struggling with the abstract, dry 'Black Tea' in 'Imagination.' He had a definitive 'No' reaction to the dominant, savory 'Oregano' in 'Intermission.' He has pending tests for a milky, green 'Fig' ('Fig Tree') and an aromatic, green 'Lavender' ('Irish Verbena'). His preference is clearly for green notes that are well-blended and contribute to an overall feeling of freshness, not for those that are the dominant, challenging star.",
+      "positive_benchmarks": [
+        "Wella Balsam (Foundational memory)",
+        "Elysian Fraiche (Blended green notes)"
+      ],
+      "negative_benchmarks": [
+        "Intermission (Dominant Oregano)",
+        "Imagination (Struggling with Tea)"
+      ],
+      "strategic_recommendation": "PROCEED WITH CAUTION. Avoid fragrances where a single, dry, or savory herbal note is the dominant theme. The pending tests of 'Fig Tree' (milky green) and 'Irish Verbena' (aromatic green) are the key diagnostics that will determine the future of this category. The tea note in `Imagination` remains a critical 'grower' test."
+    }
+  ]
+}
